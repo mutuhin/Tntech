@@ -1,7 +1,7 @@
 import asyncio
 from playwright.async_api import async_playwright, TimeoutError
 import pandas as pd
-
+import re
 
 # Function for retrying page.goto
 async def safe_goto(page, url, retries=3):
@@ -53,13 +53,24 @@ async def scrape_joint_commission():
                 # Parse Full Address into components
                 street_address, city, state, zip_code = "", "", "", ""
                 if full_address:
-                    address_parts = [part.strip() for part in full_address.split(",")]
-                    street_address = address_parts[0] if len(address_parts) > 0 else ""
-                    city = address_parts[1] if len(address_parts) > 1 else ""
-                    if len(address_parts) > 2:
-                        state_zip = address_parts[2].split()
-                        state = state_zip[0] if len(state_zip) > 0 else ""
-                        zip_code = state_zip[1] if len(state_zip) > 1 else ""
+                    # Split the address into lines
+                    address_lines = full_address.splitlines()
+
+                    # Assign the first line as Street Address
+                    street_address = address_lines[0].strip()
+
+                    # Process the last line for City, State, and ZIP
+                    if len(address_lines) > 1:
+                        last_line = address_lines[-1].strip()
+                        if "," in last_line:
+                            city_state_zip = last_line.split(",", 1)
+                            city = city_state_zip[0].strip()
+
+                            # Extract State and ZIP
+                            state_zip_match = re.search(r"([A-Za-z]+)\s+([\d-]+)$", city_state_zip[1].strip())
+                            if state_zip_match:
+                                state = state_zip_match.group(1).strip()
+                                zip_code = state_zip_match.group(2).strip()
 
                 # Extract Other Addresses
                 # Extract Other Addresses
