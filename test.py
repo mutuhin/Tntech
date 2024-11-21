@@ -9,7 +9,7 @@ def scrape_linkedin():
         page.goto("https://www.linkedin.com/login")
 
         page.fill('input[name="session_key"]', 'tuhinmh362@gmail.com')  
-        page.fill('input[name="session_password"]', 'MhTuhin#123')  
+        page.fill('input[name="session_password"]', '******')  
         page.click('button[type="submit"]')  
 
         page.wait_for_timeout(3000) 

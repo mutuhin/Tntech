@@ -1,0 +1,2986 @@
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head><script src="/hambers-Ocease-hid-harpd-in-one-King-False-come-" async></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    
+    
+
+    <link href="/-/media/enterprise-imagery/fav-icons/tjcfavicon.ico" rel="shortcut icon" />
+
+
+
+    <a  class="skip-to-content-link" href="#content">to main content</a>
+
+
+    <title>Find Accredited Organizations | The Joint Commission</title>
+
+
+
+
+
+
+<meta  name="description" content="Search for Joint Commission accredited organizations within the US." />
+
+
+<meta property="og:title"  content="Find Accredited Organizations" /><meta property="og:url"  content="https://www.jointcommission.orghttps://www.jointcommission.org/who-we-are/who-we-work-with/find-accredited-organizations/" />
+
+
+<meta property="twitter:title"  content="Find Accredited Organizations" /><meta property="twitter:card"  content="summary_large_image" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <link rel="canonical" href="https://www.jointcommission.org/who-we-are/who-we-work-with/find-accredited-organizations/" />
+
+
+    <script>
+  window.dataLayer = window.dataLayer ||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent','default',{
+    'ad_storage':'denied',
+    'analytics_storage':'denied',
+    'ad_user_data':'denied',
+    'ad_personalization':'denied',
+    'personalization_storage':'denied',
+    'functionality_storage':'granted',
+    'security_storage':'granted',
+    'wait_for_update': 500
+  });
+  gtag("set", "ads_data_redaction", true);
+</script>
+<script src="https://cmp.osano.com/16A1C6SEXP5ja1qsy/540903cb-f26f-4873-8d1f-7ad8a0dd97b6/osano.js"></script> 
+
+
+        <!-- Google Tag Manager -->
+        <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5SFR24V');</script>
+        <!-- End Google Tag Manager -->
+
+        <style type="text/css" rel="stylesheet">
+            <style>
+body {
+    font-family: "Lato", Helvetica, Verdana, Tahoma, sans-serif;
+    line-height: 1.5;
+}
+@media (max-width: 1600px) {
+	.container, .container-fluid {
+		padding: 0 15px;
+	}
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+.skip-to-content-link {
+    transform: translateY(-100%);
+    transition: transform 0.3s;
+    padding: 5px 0.75em;
+    z-index: 10000;
+    position: absolute;
+}
+
+@media (min-width: 1200px) {
+	.hidden-lg {
+		display: none !important;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "PT Serif", serif;
+}
+h1 {
+    font-size: 44px;
+    font-size: 2.75rem;
+}
+h2 {
+    font-size: 30px;
+    font-size: 1.875rem;
+}
+.wysiwyg h2, 
+.wysiwyg h3, 
+.wysiwyg h4, 
+.wysiwyg h5 {
+    line-height: 1.2;
+}
+.title h1 {
+    margin: 20px 0;
+    font-size: 36px;
+    font-size: 2.25rem;
+}
+@media (min-width: 64em) {
+	.title h1 {
+		font-size: 60px;
+		font-size: 3.75rem;
+	}
+}
+.has-title-indicator .item__title {
+    position: relative;
+    padding-bottom: 0.8em;
+    margin-bottom: 0.8em;
+}
+@media (min-width: 768px) {
+	.has-title-indicator .item__title {
+		padding-bottom: 0.5em;
+		margin-bottom: 0.5em;
+		font-size: 50px;
+		font-size: 3.125rem;
+	}
+}
+.has-title-indicator .item__title:before {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 5px;
+    background-color: #808080;
+}
+.tjc .title-indicator--theme-2 .item__title:before {
+    background-color: #fec34e;
+    color: #333;
+}
+
+.btn, button.btn, input.btn, a.btn {
+    border-radius: 6px;
+}
+.btn.btn--ghost {
+    padding: 0 10px;
+    line-height: 48px;
+    border-color: currentColor;
+}
+
+.button, 
+input.button, 
+button.button, 
+a.button, 
+.button-wrap .item__ctas a, 
+.button-wrap .item__ctas input, 
+.button-wrap .item__ctas button, 
+.button-wrap .item__ctas .cta--link, 
+.button-wrap > a, 
+.button-wrap > input, 
+.button-wrap > button, 
+.button-wrap > .cta--link {
+    display: inline-block;
+    margin: 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 15px 20px;
+    min-width: 140px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+
+.tjc .component .button-wrap.button--theme-2 > a, 
+.tjc .component .button-wrap.button--theme-2 > input[type=submit], 
+.tjc .component .button-wrap.button--theme-2 > button, 
+.tjc .component .button-wrap.button--theme-2 > .cta--link {
+    background-color: #FEC34E;
+    color: #1F326B;
+}
+
+@media (max-width: 1600px) {
+	.container, .container-fluid {
+		padding: 0 15px;
+	}
+}
+.component-content {
+    font-size: 24px;
+    font-size: 1.5rem;
+}
+.tjc a {
+    color: #1A40AE;
+}
+.tjc .theme-2 {
+    background-color: #FEC34E;
+}
+.tjc .theme-4 {
+    background-color: #F2F3F8;
+}
+.promo-no-padding-important {
+    padding: 0 !important;
+}
+
+#header .account-header .btn {
+    margin-left: 10px;
+    min-width: 150px;
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+.header--sticky {
+    border-bottom: 1px solid #ccc;
+}
+#header .header-middle > .component-content {
+    min-height: 94px;
+}
+#header .container > .component-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header .container > .component-content > .image {
+    margin: 10px;
+    max-width: 326px;
+}
+@media (min-width: 1140px) {
+	#header .container > .component-content > .image {
+		margin: 30px 100px 30px 0;
+	}
+}
+#header .component.image h1 a, #header .component.image .field-image a {
+    height: 65px;
+}
+@media (min-width: 480px){
+	.tjc #header .component.image h1 a, .tjc #header .component.image .field-image a {
+		width: 315px;
+	}
+}
+@media (min-width: 1140px){
+	#header .link-list {
+		margin: 0.8em 0 0.9em;
+	}
+}
+.image a, .field-summaryicon a {
+    display: inline-block;
+}
+#header .link-list + .link-list, #header .plain-html + .link-list {
+    font-weight: bold;
+}
+.dropdown-link-list .btn {
+    padding-right: 15px !important;
+    color: #1a40ae;
+    background: none;
+    font-size: 18px;
+    font-size: 1.125rem;
+    font-family: "Lato", Helvetica, Verdana, Tahoma, sans-serif;
+}
+.dropdown-link-list .btn:after {
+    content: "";
+    display: inline-block;
+    position: relative;
+    bottom: 0.25em;
+    left: 0.2em;
+    border: 2px solid currentColor;
+    border-top: 0;
+    border-left: 0;
+    width: 0.5em;
+    height: 0.5em;
+    -webkit-transform: rotate(45deg) scale(.9);
+    -ms-transform: rotate(45deg) scale(.9);
+    transform: rotate(45deg) scale(.9);
+}
+
+.menu-toggle {
+    display: block;
+    position: relative;
+    border: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 45px;
+    height: 40px;
+    color: #242d67;
+}
+.menu-toggle:before, .menu-toggle:after, .menu-toggle > span:before {
+    content: " ";
+    position: absolute;
+    left: 15%;
+    border-radius: 5px;
+    width: 70%;
+    height: 4px;
+    background: currentColor;
+}
+.menu-toggle:before {
+    top: 10px;
+}
+.menu-toggle:after {
+    top: 19px;
+}
+.menu-toggle > span:before {
+    top: 28px;
+}
+@media (min-width: 1140px) {
+	.menu-toggle, .search-toggle, .coveo-search-toggle {
+		display: none;
+	}
+}
+
+.search-toggle, .coveo-search-toggle {
+    position: relative;
+    margin-left: auto;
+    margin-right: 10px;
+    text-align: center;
+    width: 32px;
+    height: 32px;
+    color: #242d67;
+}
+.search-toggle:before, .coveo-search-toggle:before {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    width: 1.4em;
+    height: 1.4em;
+    border: 0.2em solid currentColor;
+    border-radius: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.search-toggle:after, .coveo-search-toggle:after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0.6em 0 0 0.6em;
+    border-radius: 0.2em;
+    width: 0.7em;
+    height: 0.3em;
+    background: currentColor;
+    -webkit-transform: translate(-50%, -50%) rotate(45deg);
+    -ms-transform: translate(-50%, -50%) rotate(45deg);
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+.magic-box .magic-box-input .magic-box-underlay, .magic-box .magic-box-input > input {
+    padding: 12px 0;
+    text-indent: 12px;
+    line-height: 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 48px;
+}
+
+.tjc .theme-1 {
+    background-color: #1F326B;
+}
+@media (max-width: 1139px){
+	#header .has-main-nav {
+		bottom: 0;
+		left: 0;
+		width: 256px;
+		position: absolute !important;
+		-webkit-transform: translate(-256px, -94px) !important;
+		-ms-transform: translate(-256px, -94px) !important;
+		transform: translate(-256px, -94px) !important;
+	}
+}
+.main-menu.click-menu {
+    width: 100%;
+}
+.main-menu.click-menu nav > ul {
+	margin:0;
+	list-style: none;
+}
+.main-menu.click-menu nav > ul > li > a {
+    display: block;
+    position: relative;
+    font-weight: bold;
+    font-size: .85em;
+    font-size: 20px;
+    overflow: hidden;
+}
+.main-menu.click-menu nav > ul > .submenu > a:after {
+    content: " ";
+    display: inline-block;
+    position: relative;
+    top: -0.1em;
+    left: 0.5em;
+    border: 2px solid currentColor;
+    border-top: 0;
+    border-left: 0;
+    width: 0.5em;
+    height: 0.5em;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    -webkit-transform: rotate(45deg) scale(0.9);
+    -ms-transform: rotate(45deg) scale(0.9);
+    transform: rotate(45deg) scale(0.9);
+}
+@media (min-width: 1140px) {
+	.main-menu.click-menu nav > ul, 
+	.main-menu.click-menu .wide-menu > ul {
+		display: flex;
+		justify-content: space-between;
+	}
+	.main-menu.click-menu nav > ul > li > a {
+		padding: 0.8em 0.8em 0.8em 0;
+	}
+	.custom-sub {
+		position: absolute;
+	}
+	.cm-menu .custom-sub {
+		opacity: 0;
+	}
+}
+
+@media (min-width: 1140px) {
+	.main-menu.click-menu {
+		padding: 0 15px;
+	}
+}
+
+.breadcrumb ol {
+    list-style: none;
+}
+.breadcrumb li {
+    position: relative;
+    float: left;
+}
+.breadcrumb .separator {
+    width: 15px;
+    margin: 0 5px;
+    display: inline-block;
+}
+.breadcrumb a {
+    text-decoration: none;
+}
+.breadcrumb li.last a {
+    color: #767676;
+}
+
+.has-padding-top-bottom-important {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+@media (min-width: 992px) {
+	.has-padding-top-bottom-important {
+		padding: 30px 0 !important;
+	}
+}
+
+.tjc .theme-4 .banner__overlay {
+    background: rgba(242,243,248, .9);
+}
+@media (min-width: 992px) {
+	.tjc .theme-4.content--align-l.linear-gradient .banner__overlay {
+		background: -webkit-linear-gradient(left, rgba(242,243,248,1) 0%, rgba(242,243,248,1) 55%, rgba(242,243,248,0) 80%);
+		background: -o-linear-gradient(left, rgba(242,243,248,1) 0%, rgba(242,243,248,1) 55%, rgba(242,243,248,0) 80%);
+		background: linear-gradient(to right, rgba(242,243,248,1) 0%, rgba(242,243,248,1) 55%, rgba(242,243,248,0) 80%);
+	}
+}
+
+.inset-arrows .banner__content {
+    padding: 30px 75px;
+}
+@media (min-width: 768px) {
+	.inset-arrows .banner__content {
+		padding: 60px 11%;
+	}
+}
+@media (min-width: 992px) {
+	.slide .banner__content {
+		max-width: 66%;
+	}
+}
+
+.column-splitter .slideshow .banner__content {
+    padding: 30px 15px;
+}
+@media (min-width: 768px) {
+	.column-splitter .slideshow .banner__content {
+		padding: 60px 10% 60px 4%;
+	}
+}
+
+.banner__content .container {
+    padding: 0;
+}
+
+@media (min-width: 768px){
+	.title--large .banner .item__title {
+		font-size: 60px;
+		font-size: 3.75rem;
+	}
+}
+@media (min-width: 992px) {
+	.title.title--large .field-title, .title--large .field-title {
+		margin-top: -0.2em;
+		margin-bottom: 0.5em;
+	}
+}
+.banner .item__title {    
+	margin: 0 0 0.4em 0;
+    font-size: 35px;
+    font-size: 2.1875rem;
+	line-height: 1.15;
+}
+.banner .item__summary {
+    font-size: 20px;
+    font-size: 1.25rem;
+}
+@media (min-width: 768px) {
+	.banner .item__title {
+		font-size: 50px;
+		font-size: 3.125rem;
+	}
+	.slideshow .banner .item__summary {
+		font-size: 30px;
+		font-size: 1.875rem;
+	}
+	.banner .item__summary {
+		margin: 0 0 0.4em;
+	}
+	.inset-arrows .banner .item__summary {
+		margin: 0.2em 0 0.4em;
+	}
+}
+
+.banner .button, 
+.banner .button-wrap a, 
+.banner .button-wrap input {
+    margin: 1em 0;
+    min-width: 175px;
+}
+@media (max-width: 767px){
+	.banner .button, 
+	.banner .button-wrap a, 
+	.banner .button-wrap input {
+		max-width: 400px;
+		width: 100%;
+	}
+}
+
+.banner__bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+    background-size: cover;
+}
+.bg--align-lt .banner__bg {
+    background-position:15% 0%;
+}
+
+.bg--align-lm .banner__bg {
+    background-position:15% 50%;
+}
+
+.bg--align-lb .banner__bg {
+    background-position:15% 100%;
+}
+
+.bg--align-mt .banner__bg {
+    background-position:50% 0%;
+}
+
+.bg--align-mm .banner__bg {
+    background-position:50% 50%;
+}
+
+.bg--align-mb .banner__bg {
+    background-position:50% 100%;
+}
+
+.bg--align-rt .banner__bg {
+    background-position:85% 0%;
+}
+
+.bg--align-rm .banner__bg {
+    background-position:85% 50%;
+}
+
+.bg--align-rb .banner__bg {
+    background-position:85% 100%;
+}
+@media (min-width: 992px) {
+	.content--align-l.bg--half .banner__bg {
+		left: 50%;
+	}
+}
+
+.jump-nav {
+    margin: 1em 0;
+    border: 1px solid #ccc;
+    border-left: 0;
+    border-right: 0;
+    font-weight: 700;
+    background: #fff;
+    clear: left;
+    font-size: 20px;
+}
+.jump-nav__toggle {
+    display: block;
+    border: 0;
+    border-radius: 0;
+    padding: 1em 2em 1em 1em;
+    width: 100%;
+    font-size: 1.125rem;
+    text-transform: uppercase;
+    text-align: inherit;
+    color: #1a40ae;
+    background: none;
+}
+
+.jump-nav__toggle:before, 
+.jump-nav__toggle:after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    right: 0.5em;
+    width: 1em;
+    height: 2px;
+    background: #ccc;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+@media (min-width: 992px) {
+	.jump-nav__toggle {
+		display: none;
+	}
+}
+
+.jump-nav__links {
+    display: none;
+    float: none;
+	margin: 0 auto;
+}
+@media (min-width: 992px) {
+	.jump-nav__links {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		max-width: 1572px;
+	}
+}
+
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+@media (min-width: 768px){
+	.navbar-nav > li > a {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+}
+
+.tjc .accordions-wrap.theme-4 .panel {
+    background-color: #f2f3f8;
+}
+[class*="theme-"] .accordion-list > .panel {
+    border: 0;
+}
+.accordion-list>.panel {
+    margin-bottom: 15px;
+}
+.accordion--default .panel {
+    margin: 0;
+}
+.accordion-list>.panel .panel__heading {
+    padding: 0 30px;
+}
+.accordion--default .panel__heading [aria-expanded] {
+    padding: 30px 0;
+    color: #1b1b1b;
+    font-family: "PT serif",serif;
+}
+.panel__heading [aria-expanded]:before, .panel__heading [aria-expanded]:after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    background-color: currentColor;
+}
+.panel__heading [aria-expanded]:before {
+    right: 15px;
+    margin-top: -7px;
+    width: 2px;
+    height: 14px;
+}
+.panel__heading [aria-expanded]:after {
+    right: 9px;
+    margin-top: -1px;
+    width: 14px;
+    height: 2px;
+}
+.collapse {
+    display: none;
+}
+
+.slick-arrow {
+    position: absolute;
+    z-index: 100;
+    top: 50%;
+    border: 0;
+    padding: 0;
+    margin-top: -20px;
+    width: 40px;
+    height: 40px;
+    color: transparent;
+    background: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.slick-prev {
+    left: 1%;
+}
+@media (min-width: 768px) {
+	.inset-arrows .slideshow .slick-prev {
+		left: 1%;
+	}
+}
+@media (min-width: 1200px) {
+	.inset-arrows .slideshow .slick-prev {
+		left: 2.5%;
+	}
+}
+.slick-next {
+    right: 1%;
+}
+@media (min-width: 768px){
+	.inset-arrows .slideshow .slick-next {
+		right: 1%;
+	}
+}
+@media (min-width: 1200px) {
+	.inset-arrows .slideshow .slick-next {
+		right: 2.5%;
+	}
+}
+.slideshow-component .slick-arrow {
+    padding: 30px;
+    background: rgba(0,0,0,.5);
+}
+</style>
+        </style>
+
+
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://munchkin.marketo.net">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Montserrat:400,700|PT+Serif:700&display=swap" as="style">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Montserrat:400,700|PT+Serif:700&display=swap" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Montserrat:400,700|PT+Serif:700&display=swap" />
+    </noscript>
+
+<link rel="preload" href="/-/media/feature/experience-accelerator/bootstrap/bootstrap/styles/optimized-min.css?t=20230308T194828Z" as="style" onload="this.rel='stylesheet'"><link rel="stylesheet" href="/-/media/feature/experience-accelerator/bootstrap/bootstrap/styles/optimized-min.css?t=20230308T194828Z" media="print" onload="this.media = 'all'"><noscript><link rel="stylesheet" href="/-/media/feature/experience-accelerator/bootstrap/bootstrap/styles/optimized-min.css?t=20230308T194828Z"></noscript><link rel="preload" href="/-/media/base-themes/core-libraries/styles/optimized-min.css?t=20230308T194831Z" as="style" onload="this.rel='stylesheet'"><link rel="stylesheet" href="/-/media/base-themes/core-libraries/styles/optimized-min.css?t=20230308T194831Z" media="print" onload="this.media = 'all'"><noscript><link rel="stylesheet" href="/-/media/base-themes/core-libraries/styles/optimized-min.css?t=20230308T194831Z"></noscript><link rel="preload" href="/-/media/base-themes/main-theme/styles/optimized-min.css?t=20230317T180802Z" as="style" onload="this.rel='stylesheet'"><link rel="stylesheet" href="/-/media/base-themes/main-theme/styles/optimized-min.css?t=20230317T180802Z" media="print" onload="this.media = 'all'"><noscript><link rel="stylesheet" href="/-/media/base-themes/main-theme/styles/optimized-min.css?t=20230317T180802Z"></noscript><link rel="preload" href="/-/media/base-themes/ozplayer/styles/optimized-min.css?t=20230510T182821Z" as="style" onload="this.rel='stylesheet'"><link rel="stylesheet" href="/-/media/base-themes/ozplayer/styles/optimized-min.css?t=20230510T182821Z" media="print" onload="this.media = 'all'"><noscript><link rel="stylesheet" href="/-/media/base-themes/ozplayer/styles/optimized-min.css?t=20230510T182821Z"></noscript><link rel="preload" href="/-/media/themes/enterprise/jc/styles/optimized-min.css?t=20241030T210332Z" as="style" onload="this.rel='stylesheet'"><link rel="stylesheet" href="/-/media/themes/enterprise/jc/styles/optimized-min.css?t=20241030T210332Z" media="print" onload="this.media = 'all'"><noscript><link rel="stylesheet" href="/-/media/themes/enterprise/jc/styles/optimized-min.css?t=20241030T210332Z"></noscript>
+
+
+
+
+    
+
+
+    
+    
+    
+
+    
+    <script src='/scripts/js/LinkTrackerManager.js' type='text/javascript' language='Javascript'></script>
+    <script src='/scripts/js/mediaelement.min.js' type='text/javascript' language='Javascript'></script>
+    
+</head>
+<body class="default-device tjc bodyclass">
+    
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SFR24V"
+                    title="GTM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+    
+
+
+
+
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header id="header">
+        <!-- class="container" -->
+        
+
+
+
+<div class="component section col-xs-12" id="e59d1ecfda9f4db3a48af8adac2993db" tabindex="-1" >
+    
+        <div class="component promo content--align-m promo-no-padding-important theme-11" id="5cad3ef501714cefa3da86ec4b54c77a_a76eedc26a134b448d4c946df187f9ce" tabindex="-1">
+        <div class="component-content">
+        </div>
+    </div>
+    <div class="component promo content--align-m promo-no-padding-important" id="8415ff9fd7d740b5bb98b82fee77dfc9_f278f10d5e4f4b8daee5969c26d6bd1f" tabindex="-1">
+        <div class="component-content">
+        </div>
+    </div>
+    <div class="component promo content--align-m promo-no-padding-important theme-2" id="e3822d8ca19e4435bc022bd3506b5c9f_82afe2785bd048beb14e5dcee4bcec79" tabindex="-1">
+        <div class="component-content">
+        </div>
+    </div>
+    <div class="component promo content--align-m promo-no-padding-important font-gold theme-11" id="d3b030de24ab4c069f92cba21d5a9013_412d834821704e41947ee98c423f1410" tabindex="-1">
+        <div class="component-content">
+        </div>
+    </div>
+
+</div>
+
+
+<div class="component section col-xs-12" id="7eaee0d6cb0f4293a60c6c333e62ce2b" tabindex="-1" >
+    
+    
+
+
+<div class="component section col-xs-12 theme-4" id="9ae54b784b024189af84a282928dda3a" tabindex="-1" >
+    
+    
+
+
+<div class="component container col-xs-12" id="cd5a0012f5024379a4254ba781e630e2" tabindex="-1" >
+    <div class="component-content">
+<div class="component plain-html" id="9e6ed67530604241b334796a9f13417f" tabindex="-1">
+    <div class="component-content">
+    </div>
+</div>
+<div class="component link-list has-dividers" id="bcf988512f0d4ef28727ad0d0d3ceaaf_d824ecb7b3c24e629d3808e59e20608f" tabindex="-1">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="https://www.jointcommission.org/who-we-are/who-we-work-with/find-accredited-organizations/" data-variantitemid="{49EB0A1F-0C95-45C8-9BBA-FC8D5F0BACDE}" data-variantfieldname="Link">Find Accredited Organizations</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="https://www.jointcommission.org/careers/" data-variantitemid="{B91D2DE6-1A5C-4FF5-92F5-4BEAC3972A1E}" title="Browse career opportunities with The Joint Commission" data-variantfieldname="Link">Careers</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="https://www.jointcommission.org/e-alerts/" data-variantitemid="{7A72118B-260C-4D3D-AA50-91D520875F1C}" title="Sign up to receive important updates from The Joint Commission with E-Alerts" data-variantfieldname="Link">E-Alerts</a></div>                </li>
+                <li class="item3 even last">
+<div class="field-link"><a href="https://www.jointcommission.org/contact-us/" data-variantitemid="{5B96C60D-B742-4689-A98B-4CC2A46BF22B}" title="Find ways to get in touch with us" data-variantfieldname="Link">Contact Us</a></div>                </li>
+        </ul>
+    </div>
+</div>
+    </div>
+</div>
+</div>
+
+
+<div class="component container col-xs-12 header-middle" id="f7c3eed269ec4f389f05dae3d5b0ce16" tabindex="-1" >
+    <div class="component-content">
+<div class="component plain-html hidden-lg" id="3936481020a5487cb92bebd70f6586c0" tabindex="-1">
+    <div class="component-content">
+<a href="#" class="menu-toggle">
+    <span><span class="sr-only">Main Menu</span></span>
+</a>    </div>
+</div>
+<div class="component image file-type-icon-media-link" id="df6af32d39f74b1bb8718cfbe40a7109_ed8282e54c70458db411044f79d8c788" tabindex="-1">
+    <div class="component-content">
+<div class="field-image"><a title="The Joint Commission" href="https://www.jointcommission.org/"><img src="https://www.jointcommission.org/-/media/enterprise-imagery/logos/tjc-r-mark.png?h=225&amp;iar=0&amp;w=1314&amp;hash=606C0E3FEAB45288E32B9C564AC1C109" alt="The Joint Commission" width="1314" height="225" data-variantitemid="{ED8282E5-4C70-458D-B411-044F79D8C788}" data-variantfieldname="Image" title="The Joint Commission" /></a></div>    </div>
+</div>
+
+<div class="component link-list dropdown-link-list our-websites-dropdown" id="Our-Websites b4199ee1ffc44788b6d270b6b46a6b2c_0d0f293b83fc409b8877ef894220969f" tabindex="-1">
+    <div class="component-content">
+        <div class="dropdown">
+            <button class="btn btn--ghost dropdown-toggle" type="button" id="dropdownMenuButton-0d0f293b83fc409b8877ef894220969f" data-toggle="dropdown" aria-expanded="false">
+                <span>Our Websites</span>
+            </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton-0d0f293b83fc409b8877ef894220969f">
+                <ul>
+                        <li>
+<span class="field-linkimage"><a title="Click here to visit the Joint Commission Resources website" href="https://www.jcrinc.com/" target="_blank"><img src="https://www.jointcommission.org/-/media/enterprise-imagery/logos/jcr-r-mark.png?h=375&amp;iar=0&amp;w=1314&amp;hash=8BD6AB29413EAF1470DBE43093889353" alt="Click here to visit the Joint Commission Resources website" width="1314" height="375" data-variantitemid="{C1590A3D-2A67-41B7-A887-B76322C1DE6D}" data-variantfieldname="LinkImage" title="Joint Commission Resources" /></a></span>                        </li>
+                        <li>
+<span class="field-linkimage"><a title="Click here to visit the Joint Commission International website" href="https://www.jointcommissioninternational.org/" target="_blank"><img src="https://www.jointcommission.org/-/media/enterprise-imagery/logos/jci-r-mark.png?h=375&amp;iar=0&amp;w=1314&amp;hash=4A50A44BA38FAB86A603542BB68F4822" alt="Click here to visit the Joint Commission International website" width="1314" height="375" data-variantitemid="{CDDEF62C-D769-437E-9287-FEE42B9F255E}" data-variantfieldname="LinkImage" title="Joint Commission International" /></a></span>                        </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="component coveo-searchresources" id="af1433fd344444cba941af60b7cf472d_b8158c2e29b54204bb39d3d77ad54302" tabindex="-1">
+    <link rel="stylesheet" href="/Coveo/Hive/css/CoveoFullSearch.css" />
+    <link rel="stylesheet" href="/Coveo/Hive/css/CoveoForSitecore.css" />
+    <script class="coveo-script" type="text/javascript" src='/Coveo/Hive/js/CoveoJsSearch.Lazy.min.js'></script>
+    <script>
+        // Workaround to force the lazy loading path to a static path for IE11.
+        Coveo.PublicPathUtils.configureResourceRoot("/Coveo/Hive/js/");
+        Coveo.PublicPathUtils.getDynamicPublicPath = function () { return "/Coveo/Hive/js/"; }
+    </script>
+    <script class="coveo-for-sitecore-script" type="text/javascript" src='/Coveo/Hive/js/CoveoForSitecore.Lazy.min.js'></script>
+    <script type="text/javascript" src="/Coveo/Hive/js/cultures/en.js"></script>
+
+    <div>
+
+
+        
+        
+            <!-- Resources -->
+            <div id="coveo3a949f41"
+                 class="CoveoForSitecoreContext"
+                   data-sc-should-have-analytics-component='true'
+  data-sc-analytics-enabled='true'
+  data-sc-current-language='en'
+  data-prebind-sc-language-field-name='fieldTranslator'
+  data-sc-language-field-name='_language'
+  data-sc-labels='{&quot;Created&quot; : &quot;Created&quot; , &quot;Created By&quot; : &quot;Created by&quot; , &quot;Creation Time&quot; : &quot;Creation time.&quot; , &quot;Language&quot; : &quot;Language&quot; , &quot;Last Time Modified&quot; : &quot;Last time modified.&quot; , &quot;Template&quot; : &quot;Template&quot; , &quot;Uniform resource identifier&quot; : &quot;URI&quot; , &quot;Updated By&quot; : &quot;Updated by&quot; , &quot;If the problem persists contact the administrator.&quot; : &quot;If the problem persists contact the administrator.&quot; , &quot;Search is currently unavailable&quot; : &quot;Oops! Something went wrong on the server.&quot; , &quot;Descending&quot; : &quot;Descending&quot; , &quot;Ascending&quot; : &quot;Ascending&quot;}'
+  data-sc-maximum-age='900000'
+  data-sc-page-name='Find Accredited Organizations'
+  data-sc-page-name-full-path='/sitecore/content/Enterprise/TJC/Home/who-we-are/who-we-work-with/Find Accredited Organizations'
+  data-sc-index-source-name='Coveo_web_index - JC10-PROD'
+  data-sc-is-in-experience-editor='false'
+  data-sc-is-user-anonymous='true'
+  data-sc-item-uri='sitecore://web/{F91011A7-4B68-441D-9BC5-2321305F0434}?lang=en&amp;ver=4'
+  data-sc-item-id='f91011a7-4b68-441d-9bc5-2321305f0434'
+  data-prebind-sc-latest-version-field-name='fieldTranslator'
+  data-sc-latest-version-field-name='_latestversion'
+  data-sc-rest-endpoint-uri='/coveo/rest'
+  data-sc-analytics-endpoint-uri='/coveo/rest/ua'
+  data-sc-site-name='TJC'
+  data-sc-field-prefix='f'
+  data-sc-field-suffix='89370'
+  data-sc-prefer-source-specific-fields='false'
+  data-sc-external-fields='[{&quot;fieldName&quot;:&quot;permanentid&quot;,&quot;shouldEscape&quot;:false}]'
+  data-sc-source-specific-fields='[{&quot;fieldName&quot;:&quot;attachmentparentid&quot;},{&quot;fieldName&quot;:&quot;author&quot;},{&quot;fieldName&quot;:&quot;clickableuri&quot;},{&quot;fieldName&quot;:&quot;collection&quot;},{&quot;fieldName&quot;:&quot;concepts&quot;},{&quot;fieldName&quot;:&quot;date&quot;},{&quot;fieldName&quot;:&quot;filetype&quot;},{&quot;fieldName&quot;:&quot;indexeddate&quot;},{&quot;fieldName&quot;:&quot;isattachment&quot;},{&quot;fieldName&quot;:&quot;language&quot;},{&quot;fieldName&quot;:&quot;printableuri&quot;},{&quot;fieldName&quot;:&quot;rowid&quot;},{&quot;fieldName&quot;:&quot;size&quot;},{&quot;fieldName&quot;:&quot;source&quot;},{&quot;fieldName&quot;:&quot;topparent&quot;},{&quot;fieldName&quot;:&quot;topparentid&quot;},{&quot;fieldName&quot;:&quot;transactionid&quot;},{&quot;fieldName&quot;:&quot;uri&quot;},{&quot;fieldName&quot;:&quot;urihash&quot;}]'
+>
+            </div>
+            <script type="text/javascript">
+        var endpointConfiguration = {
+            itemUri: "sitecore://web/{F91011A7-4B68-441D-9BC5-2321305F0434}?lang=en&amp;ver=4",
+            siteName: "TJC",
+            restEndpointUri: "/coveo/rest"
+        };
+        if (typeof (CoveoForSitecore) !== "undefined") {
+            CoveoForSitecore.SearchEndpoint.configureSitecoreEndpoint(endpointConfiguration);
+            CoveoForSitecore.version = "5.0.1110.1";
+            var context = document.getElementById("coveo3a949f41");
+            if (!!context) {
+                CoveoForSitecore.Context.configureContext(context);
+            }
+        }
+            </script>
+    </div>
+</div><div class="component coveo-externalcomponentssection coveo-search-box-wrap col-xs-12" id="e867c5e6ba034493971f2c8964aa2c5f_108ad79560e949b7895e6841a17fc02d" tabindex="-1">
+    
+    <a href="#box-main_search" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="box-main_search" class="coveo-search-toggle">
+        <span class="sr-only">Search Toggle</span>
+    </a>
+    <div id="box-main_search" class="collapse coveo-search-box">
+        <div>
+            
+            
+
+                <div id="_108AD795-60E9-49B7-895E-6841A17FC02D"
+                       data-search-interface-id='coveoc19220f8'
+>
+                    <div class="component coveo-globalsearchbox col-xs-12" id="2a2a063f3bff46c48838bde6214bc845_7df8f2ba409f4306a237b09655c2289c" tabindex="-1">
+
+
+
+
+
+<script>
+    document.addEventListener("CoveoSearchEndpointInitialized", function() {
+        var searchboxElement = document.getElementById("_185F67BF-1D73-4AEE-9564-FDE5B0EB24D9");
+        searchboxElement.addEventListener("CoveoComponentInitialized", function() {
+            CoveoForSitecore.initSearchboxIfStandalone(searchboxElement, "https://www.jointcommission.org/search/");
+        });
+    })
+</script>    <div id="_185F67BF-1D73-4AEE-9564-FDE5B0EB24D9_container" class="coveo-for-sitecore-search-box-container"
+                     data-prebind-maximum-age='currentMaximumAge'
+>
+        <div id="_185F67BF-1D73-4AEE-9564-FDE5B0EB24D9"
+             class="CoveoSearchbox"
+                             data-enable-omnibox='true'
+                 data-enable-query-suggest-addon='true'
+                 data-prebind-maximum-age='currentMaximumAge'
+                 data-placeholder='Search this site'
+                 data-clear-filters-on-new-query='false'
+>
+            
+            
+<script type="text/javascript">
+    document.addEventListener("CoveoSearchEndpointInitialized", function() {
+        var componentId = "_185F67BF-1D73-4AEE-9564-FDE5B0EB24D9";
+        var componentElement = document.getElementById(componentId);
+
+        function showError(error) {
+                console.error(error);
+        }
+
+        function areCoveoResourcesIncluded() {
+            return typeof (Coveo) !== "undefined";
+        }
+
+        if (areCoveoResourcesIncluded()) {
+            var event = document.createEvent("CustomEvent");
+            event.initEvent("CoveoComponentInitialized", false, true);
+            
+            setTimeout(function() {
+                componentElement.dispatchEvent(event);
+            }, 0);
+        } else {
+            componentElement.classList.add("invalid");
+            showError("The Coveo Resources component must be included in this page.");
+        }
+    });
+</script>
+            <div class="CoveoForSitecoreBindWithUserContext"></div>
+            <div class="CoveoForSitecoreExpressions"></div>
+            <div class="CoveoForSitecoreConfigureSearchHub" data-sc-search-hub="TJC Global"></div>
+        </div>
+        
+    </div>
+</div>
+                </div>
+        </div>
+    </div>
+        <script type="text/javascript">
+        document.addEventListener("CoveoSearchEndpointInitialized", function() {
+            var externalComponentsSection = document.getElementById("_108AD795-60E9-49B7-895E-6841A17FC02D");
+                 CoveoForSitecore.initExternalComponentsSection(externalComponentsSection);
+        });
+        </script>
+
+</div>
+
+
+
+
+<div class="component account-header" id="106effc35b1847a89b8e888d4eb1d91e" tabindex="-1">
+    <div class="component-content" style="display: flex; align-items: center;">
+    <div class="row">
+
+        <div class="col-xs-12 col-sm-12">
+            
+
+<div class="component link button-wrap button--ghost" id="JC_Connect eb2dd2d231a4495b82da6a8dec09ea87_a55eaf0dddac43b38944645234792e0a" tabindex="-1">
+    <div class="component-content">
+
+<div class="field-link"><a href="https://www.jointcommission.org/login/" data-variantitemid="{A55EAF0D-DDAC-43B3-8944-645234792E0A}" data-variantfieldname="Link" class="btn btn--ghost">Login</a></div>    </div>
+</div>
+        </div>
+    </div>
+    </div>
+</div>
+
+
+    </div>
+</div>
+</div>
+
+
+<div class="component section col-xs-12 has-main-nav theme-1" id="2e7c0c67cd984fae9db3e2bf4838fa02" tabindex="-1" >
+    
+    
+
+
+<div class="component container col-xs-12" id="bbe62adc5ef24c2ba19e943e12f6cf8c" tabindex="-1" >
+    <div class="component-content">
+    <div class="component navigation col-xs-12 main-menu click-menu" id="8beb849840e6441192e331f4167e9ecd_b40351b2277441c8abacf61966139b1c" tabindex="-1">
+        <div class="component-content">
+            <nav>
+
+    <ul class="clearfix">
+            <li class=" level1 submenu item0 odd first active rel-level1">
+                <a href="https://www.jointcommission.org/who-we-are/">Who We Are</a>
+                <div class="sub-menu custom-sub">
+                    <div class="close-sub-container">
+                        <div>
+                            <button class="close-sub" role="menuitem">Close</button>
+                        </div>
+                    </div>
+                        <div class="section-desc">
+                            <span>
+                                Through leading practices, unmatched knowledge and expertise, we help organizations across the continuum of care lead the way to zero harm.<br/>
+                            </span>
+                        </div>
+                    <div class="container">
+                        <div class="row flexing">
+                            <div class="column first-column">
+                                    <ul role="presentation">
+            <li class="level2 item0 odd first rel-level2">
+                <a href="https://www.jointcommission.org/who-we-are/who-we-work-with/">Who We Work With</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/who-we-work-with/find-accredited-organizations/">Find Accredited Organizations</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/who-we-work-with/our-partnerships/">Our Partnerships</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/who-we-work-with/payer-relations/">Payer Relations</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/who-we-work-with/state-recognition/">State Recognition</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item1 even last rel-level2">
+                <a href="https://www.jointcommission.org/who-we-are/why-work-with-us/">Why Work With Us</a>
+            </li>
+            <li class="level2 item2 odd last rel-level2">
+                <a href="https://www.jointcommission.org/who-we-are/facts-about-the-joint-commission/">Facts About The Joint Commission</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/facts-about-the-joint-commission/history-of-the-joint-commission/">History of The Joint Commission</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/facts-about-the-joint-commission/joint-commission-faqs/">Joint Commission FAQs</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/facts-about-the-joint-commission/board-of-commissioners/">Board of Commissioners</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/facts-about-the-joint-commission/joint-commission-advisory-groups/">Joint Commission Advisory Groups</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item3 even last rel-level2">
+                <a href="https://www.jointcommission.org/who-we-are/policies-and-financials/">Policies and Financials</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/policies-and-financials/code-of-conduct/">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/policies-and-financials/conflict-of-interest/">Conflict of Interest Policy</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/policies-and-financials/designated-copyright-agent-policy/">Designated Copyright Agent Policy</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/policies-and-financials/financial-statements/">Financial Statements</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/policies-and-financials/firewall-policy-summary/">Firewall Policy Summary</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/policies-and-financials/linking-to-the-joint-commission-website/">Linking to The Joint Commission Website</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/policies-and-financials/reprint-permission-policy/">Reprint Permission Policy</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item4 odd last rel-level2">
+                <a href="https://www.jointcommission.org/who-we-are/federal-relations-and-public-policy/">Federal Relations and Public Policy</a>
+            </li>
+            <li class="level2 item5 even last rel-level2">
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/">Joint Commission Officers</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/jonathan-b-perlin/">Jonathan B. Perlin</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/jean-courtney/">Jean Courtney</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/ken-grubbs/">Ken Grubbs</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/michael-kaba/">Michael Kaba</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/leslie-krohn/">Leslie Krohn</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/james-i-merlino/">James I. Merlino</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/jason-miles/">Jason Miles</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/elizabeth-mort/">Elizabeth Mort</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/kathryn-d-petrovic/">Kathryn D. Petrovic</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/kathryn-spates/">Kathryn Spates</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/lisa-steininger/">Lisa Steininger</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/sheela-suresh/">Sheela Suresh</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-officers-group/lisa-vandecaveye/">Lisa Vandecaveye</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item6 odd last rel-level2">
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-resources/">Joint Commission Resources</a>
+            </li>
+            <li class="level2 item7 even last rel-level2">
+                <a href="https://www.jointcommission.org/who-we-are/joint-commission-international/">Joint Commission International</a>
+            </li>
+    </ul>
+
+                            </div>
+                            
+
+<div class="column">
+<a href="https://www.jointcommission.org/who-we-are/who-we-work-with/" class="nav-item" title="Learn more about the communities and organizations we serve" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/revision/1140250474.jpg" alt="A doctor reviews information on a tablet with a nurse" class=" lazy"
+                     width=&quot;1024&quot; height=&quot;1024&quot;>
+    </div>
+        <div class="content">
+            <h3>Who We Work With</h3>
+            <p>Learn more about the communities and organizations we serve.
+</p>
+        </div>
+</a></div>
+<div class="column">
+<a href="https://www.jointcommission.org/who-we-are/why-work-with-us/" class="nav-item" title="See how our expertise and rigorous standards can help organizations like yours" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/revision/886520346.jpg" alt="A group of business professionals collaborate on a project in a conference room" class=" lazy"
+                     width=&quot;1024&quot; height=&quot;1024&quot;>
+    </div>
+        <div class="content">
+            <h3>Why Work With Us</h3>
+            <p>See how our expertise and rigorous standards can help organizations like yours.
+</p>
+        </div>
+</a></div>                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class=" level1 submenu item1 even rel-level1">
+                <a href="https://www.jointcommission.org/what-we-offer/">What We Offer</a>
+                <div class="sub-menu custom-sub">
+                    <div class="close-sub-container">
+                        <div>
+                            <button class="close-sub" role="menuitem">Close</button>
+                        </div>
+                    </div>
+                        <div class="section-desc">
+                            <span>
+                                In addition to accreditation, certification, and verification, we provide tools and resources for health care professionals that can help make a difference in the delivery of care.
+                            </span>
+                        </div>
+                    <div class="container">
+                        <div class="row flexing">
+                            <div class="column first-column">
+                                    <ul role="presentation">
+            <li class="level2 item0 odd first rel-level2">
+                <a href="https://www.jointcommission.org/what-we-offer/how-we-can-help/">How We Can Help</a>
+            </li>
+            <li class="level2 item1 even last rel-level2">
+                <a href="https://www.jointcommission.org/what-we-offer/accreditation/">Accreditation</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/accreditation/health-care-settings/">Health Care Settings</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/accreditation/become-accredited/">Become Accredited</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/accreditation/accreditation-guide/">Accreditation Guide</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/accreditation/accredited/">Accredited</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item2 odd last rel-level2">
+                <a href="https://www.jointcommission.org/what-we-offer/certification/">Certification</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/certification/what-is-certification/">What is Certification</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/certification/certifications-by-setting/">Certifications by Setting</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/certification/explore-eligibility/">Explore Eligibility</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/certification/learn-the-process/">Learn the Process</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/certification/after-your-review/">After your Review</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/certification/certifications-without-accreditation/">Certifications without Accreditation</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/certification/expert-reviewers/">Expert Reviewers</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item3 even last rel-level2">
+                <a href="https://www.jointcommission.org/what-we-offer/verification/">Verification</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/verification/improve-maternal-outcomes-at-your-healthcare-facility/">Improve Maternal Outcomes at Your Health Care Facility</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/verification/maternal-levels-of-care-verification/">Maternal Levels of Care Verification</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/verification/publicity-kit/">Publicity Kit</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item4 odd last rel-level2">
+                <a href="https://www.jointcommission.org/what-we-offer/speakers-bureau/">Speakers Bureau</a>
+            </li>
+            <li class="level2 item5 even last rel-level2">
+                <a href="https://www.jointcommission.org/what-we-offer/complimentary-resources/">Complimentary Resources</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/complimentary-resources/webinars/">Webinars</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/complimentary-resources/newsletters/">Newsletters</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/complimentary-resources/r3-reports/">R3 Reports</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/complimentary-resources/sentinel-event-alerts/">Sentinel Event Alerts</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/complimentary-resources/patient-safety-topics/">Patient Safety Topics</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/what-we-offer/complimentary-resources/dash/">DASH</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+    </ul>
+
+                            </div>
+                            
+
+<div class="column">
+<a href="https://www.jointcommission.org/what-we-offer/how-we-can-help/" class="nav-item" title="Learn how working with the Joint Commission benefits your organization and community" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/884642202.jpg" alt="Female nurse holding senior woman&#39;s hand." class=" lazy"
+                     width=&quot;430&quot; height=&quot;430&quot;>
+    </div>
+        <div class="content">
+            <h3>How We Can Help</h3>
+            <p>Learn how working with the Joint Commission benefits your organization and community.
+</p>
+        </div>
+</a></div>
+<div class="column">
+<a href="https://www.jointcommission.org/what-we-offer/accreditation/accreditation-guide/" class="nav-item" title="Find the exact resources you need to succeed in your accreditation journey" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/1001423914.jpg" alt="Shot of a group of medical practitioners having a discussion in a hospital." class=" lazy"
+                     width=&quot;430&quot; height=&quot;430&quot;>
+    </div>
+        <div class="content">
+            <h3>Accreditation Guide</h3>
+            <p>Find the exact resources you need to succeed in your accreditation journey.
+</p>
+        </div>
+</a></div>                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class=" level1 submenu item2 odd rel-level1">
+                <a href="https://www.jointcommission.org/our-priorities/">Our Priorities</a>
+                <div class="sub-menu custom-sub">
+                    <div class="close-sub-container">
+                        <div>
+                            <button class="close-sub" role="menuitem">Close</button>
+                        </div>
+                    </div>
+                        <div class="section-desc">
+                            <span>
+                                Learn about the priorities that drive us and how we are helping propel health care forward.
+                            </span>
+                        </div>
+                    <div class="container">
+                        <div class="row flexing">
+                            <div class="column first-column">
+                                    <ul role="presentation">
+            <li class="level2 item0 odd first rel-level2">
+                <a href="https://www.jointcommission.org/our-priorities/health-care-equity/">Health Care Equity</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/our-priorities/health-care-equity/accreditation-resource-center/">Accreditation Resource Center</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/our-priorities/health-care-equity/certification-resource-center/">Certification Resource Center</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item1 even last rel-level2">
+                <a href="https://www.jointcommission.org/our-priorities/responsible-use-of-health-data/">Responsible Use of Health Data</a>
+            </li>
+            <li class="level2 item2 odd last rel-level2">
+                <a href="https://www.jointcommission.org/our-priorities/sustainable-healthcare/">Sustainable Healthcare</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/our-priorities/sustainable-healthcare/sustainable-healthcare-resource-center/">Resource Center</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item3 even last rel-level2">
+                <a href="https://www.jointcommission.org/our-priorities/workforce-safety-and-well-being/">Workforce Safety and Well-Being</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/our-priorities/workforce-safety-and-well-being/resource-center/">Resource Center</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item4 odd last rel-level2">
+                <a href="https://www.jointcommission.org/our-priorities/emergency-management/">Emergency Management</a>
+            </li>
+            <li class="level2 item5 even last rel-level2">
+                <a href="https://www.jointcommission.org/our-priorities/infection-prevention/">Infection Prevention and Control</a>
+            </li>
+            <li class="level2 item6 odd last rel-level2">
+                <a href="https://www.jointcommission.org/our-priorities/suicide-prevention/">Suicide Prevention</a>
+            </li>
+    </ul>
+
+                            </div>
+                            
+
+<div class="column">
+<a href="https://www.jointcommission.org/our-priorities/health-care-equity/" class="nav-item" title="Learn more about Health Equity" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/revision/1065578710.jpg" alt="An elderly woman in a wheelchair is helped by a friendly nurse" class=" lazy"
+                     width=&quot;1024&quot; height=&quot;1024&quot;>
+    </div>
+        <div class="content">
+            <h3>Health Care Equity</h3>
+            <p>Our vision is that all people always experience safe, high-quality health care.</p>
+        </div>
+</a></div>
+<div class="column">
+<a href="https://www.jointcommission.org/our-priorities/sustainable-healthcare/" class="nav-item" title="Learn more about sustainable healthcare and why it matters" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/1497655591.jpg" alt="A hospital with a green courtyard" class=" lazy"
+                     width=&quot;1024&quot; height=&quot;1024&quot;>
+    </div>
+        <div class="content">
+            <h3>Sustainability</h3>
+            <p>The effects of climate change threaten the health of people everywhere. Together we can make a difference.</p>
+        </div>
+</a></div>                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class=" level1 submenu item3 even rel-level1">
+                <a href="https://www.jointcommission.org/standards/">Standards</a>
+                <div class="sub-menu custom-sub">
+                    <div class="close-sub-container">
+                        <div>
+                            <button class="close-sub" role="menuitem">Close</button>
+                        </div>
+                    </div>
+                        <div class="section-desc">
+                            <span>
+                                Set expectations for your organization&#39;s performance that are reasonable, achievable and survey-able.
+                            </span>
+                        </div>
+                    <div class="container">
+                        <div class="row flexing">
+                            <div class="column first-column">
+                                    <ul role="presentation">
+            <li class="level2 item0 odd first rel-level2">
+                <a href="https://www.jointcommission.org/standards/about-our-standards/">About Our Standards</a>
+            </li>
+            <li class="level2 item1 even last rel-level2">
+                <a href="https://www.jointcommission.org/standards/standards-field-reviews/">Standards Field Reviews</a>
+            </li>
+            <li class="level2 item2 odd last rel-level2">
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/">National Patient Safety Goals</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/ambulatory-health-care-national-patient-safety-goals/">Ambulatory Health Care: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/assisted-living-community-national-patient-safety-goals/">Assisted Living Community: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/behavioral-health-care-national-patient-safety-goals/">Behavioral Health Care and Human Services: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/critical-access-hospital-national-patient-safety-goals/">Critical Access Hospital: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/home-care-national-patient-safety-goals/">Home Care: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/hospital-national-patient-safety-goals/">Hospital: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/laboratory-services-national-patient-safety-goals/">Laboratory Services: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/nursing-care-center-national-patient-safety-goals/">Nursing Care Center: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/office-based-surgery-national-patient-safety-goals/">Office-Based Surgery: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/rural-health-clinic-national-patient-safety-goals/">Rural Health Clinic: 2025 National Patient Safety Goals</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/standards/national-patient-safety-goals/telehealth-national-patient-safety-goals/">Telehealth: 2025 National Patient Safety Goals</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item3 even last rel-level2">
+                <a href="https://www.jointcommission.org/standards/prepublication-standards/">Prepublication Standards</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/standards/prepublication-standards/new-and-revised-laboratory-requirements-related-to-histocompatibility/">New and Revised Laboratory Requirements Related to Histocompatibility</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item4 odd last rel-level2">
+                <a href="https://www.jointcommission.org/standards/r3-report/">R3 Report</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/standards/r3-report/r3-report-issue-47-new-and-revised-emergency-management-standards-for-laboratories/">R3 Report Issue 47: New and Revised Emergency Management Standards for Laboratories</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item5 even last rel-level2">
+                <a href="https://www.jointcommission.org/standards/standard-faqs/">Standards FAQs</a>
+            </li>
+            <li class="level2 item6 odd last rel-level2">
+                <a href="https://www.jointcommission.org/standards/universal-protocol/">Universal Protocol</a>
+            </li>
+            <li class="level2 item7 even last rel-level2">
+                <a href="https://www.jointcommission.org/standards/patient-safety-systems-ps-chapter/">Patient Safety Systems PS Chapter</a>
+            </li>
+    </ul>
+
+                            </div>
+                            
+
+<div class="column">
+<a href="https://www.jointcommission.org/standards/national-patient-safety-goals/" class="nav-item" title="National Patient Safety Goals" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/486351858.jpg" alt="Nurse and doctor talking to happy hospital patient after surgery" class=" lazy"
+                     width=&quot;430&quot; height=&quot;430&quot;>
+    </div>
+        <div class="content">
+            <h3>National Patient Safety Goals</h3>
+            <p>Find out about the current National Patient Safety Goals (NPSGs) for specific programs.</p>
+        </div>
+</a></div>
+<div class="column">
+<a href="https://www.jointcommission.org/standards/standard-faqs/" class="nav-item" title="FAQs about the Standards" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/891807504.jpg" alt="doctor chatting to sales rep in hospital corridor" class=" lazy"
+                     width=&quot;430&quot; height=&quot;430&quot;>
+    </div>
+        <div class="content">
+            <h3>FAQs about the Standards</h3>
+            <p>We help you measure, assess and improve your performance.</p>
+        </div>
+</a></div>                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class=" level1 submenu item4 odd rel-level1">
+                <a href="https://www.jointcommission.org/measurement/">Measurement</a>
+                <div class="sub-menu custom-sub">
+                    <div class="close-sub-container">
+                        <div>
+                            <button class="close-sub" role="menuitem">Close</button>
+                        </div>
+                    </div>
+                        <div class="section-desc">
+                            <span>
+                                Learn about the &quot;gold standard&quot; in quality. We develop and implement measures for accountability and quality improvement.
+                            </span>
+                        </div>
+                    <div class="container">
+                        <div class="row flexing">
+                            <div class="column first-column">
+                                    <ul role="presentation">
+            <li class="level2 item0 odd first rel-level2">
+                <a href="https://www.jointcommission.org/measurement/measures/">Measures</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/assisted-living-community-measures/">Assisted Living Community Measures</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/cardiac-care/">Cardiac Care</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/emergency-department/">Emergency Department</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/health-care-staffing-services/">Health Care Staffing Services</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/hospital-outpatient-department/">Hospital Outpatient Department</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/hospital-based-inpatient-psychiatric/">Hospital-Based Inpatient Psychiatric</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/immunization/">Immunization</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/palliative-care/">Palliative Care</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/perinatal-care/">Perinatal Care</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/spine-surgery/">Spine Surgery</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/stroke/">Stroke</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/substance-use/">Substance Use</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/tobacco-treatment/">Tobacco Treatment</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/total-hip-and-knee-replacement/">Total Hip and Knee Replacement</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/measures/venous-thromboembolism/">Venous Thromboembolism</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item1 even last rel-level2">
+                <a href="https://www.jointcommission.org/measurement/specification-manuals/">Specifications Manuals</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/measurement/specification-manuals/electronic-clinical-quality-measures/">Electronic Clinical Quality Measures</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/specification-manuals/chart-abstracted-measures/">Chart Abstracted Measures</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item2 odd last rel-level2">
+                <a href="https://www.jointcommission.org/measurement/reporting/">Reporting</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/measurement/reporting/accreditation-oryx/">Accreditation - Hospital</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/reporting/certification/">Certification</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item3 even last rel-level2">
+                <a href="https://www.jointcommission.org/measurement/pioneers-in-quality/">Pioneers in Quality</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/measurement/pioneers-in-quality/pioneers-in-quality-facts/">Facts</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/measurement/pioneers-in-quality/pioneers-in-quality-expert-to-expert-series/">Expert to Expert Series</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item4 odd last rel-level2">
+                <a href="https://www.jointcommission.org/measurement/resources/">Resources</a>
+            </li>
+            <li class="level2 item5 even last rel-level2">
+                <a href="https://www.jointcommission.org/measurement/oryx-faqs/">ORYX FAQs</a>
+            </li>
+            <li class="level2 item6 odd last rel-level2">
+                <a href="https://www.jointcommission.org/measurement/quality-measurement-webinars-and-videos/">Quality Measurement Webinars &amp; Videos</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/measurement/quality-measurement-webinars-and-videos/video-shorts/">Video Shorts</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item7 even last rel-level2">
+                <a href="https://www.jointcommission.org/measurement/accreditation---alc/">Assisted Living Community (ALC)</a>
+            </li>
+    </ul>
+
+                            </div>
+                            
+
+<div class="column">
+<a href="https://www.jointcommission.org/measurement/measures/" class="nav-item" title="Performance Measures" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/952679588.jpg" alt="Business information and info-graphics concept." class=" lazy"
+                     width=&quot;1024&quot; height=&quot;1024&quot;>
+    </div>
+        <div class="content">
+            <h3>Measures</h3>
+            <p>Learn about the development and implementation of standardized performance measures. View them by specific areas by clicking here.</p>
+        </div>
+</a></div>
+<div class="column">
+<a href="https://www.jointcommission.org/measurement/pioneers-in-quality/" class="nav-item" title="Pioneers in Quality" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/125142198.jpg" alt="Happy Medical Team Looking at Laptop in Doctor&#39;s Office." class=" lazy"
+                     width=&quot;1024&quot; height=&quot;1024&quot;>
+    </div>
+        <div class="content">
+            <h3>Pioneers in Quality</h3>
+            <p>Gain an understanding of the development of electronic clinical quality measures to improve quality of care. </p>
+        </div>
+</a></div>                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class=" level1 submenu item5 even last rel-level1">
+                <a href="https://www.jointcommission.org/resources/">Resources</a>
+                <div class="sub-menu custom-sub">
+                    <div class="close-sub-container">
+                        <div>
+                            <button class="close-sub" role="menuitem">Close</button>
+                        </div>
+                    </div>
+                        <div class="section-desc">
+                            <span>
+                                Obtain useful information in regards to patient safety, suicide prevention, infection control and many more.
+                            </span>
+                        </div>
+                    <div class="container">
+                        <div class="row flexing">
+                            <div class="column first-column">
+                                    <ul role="presentation">
+            <li class="level2 item0 odd first rel-level2">
+                <a href="https://www.jointcommission.org/resources/health-care-equity/">Health Care Equity</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/health-care-equity/accreditation-resource-center/">Accreditation Resource Center</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/health-care-equity/certification-resource-center/">Certification Resource Center</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item1 even last rel-level2">
+                <a href="https://www.jointcommission.org/resources/publicity-kits/">Publicity Kits</a>
+            </li>
+            <li class="level2 item2 odd last rel-level2">
+                <a href="https://www.jointcommission.org/resources/patient-safety-topics/">Patient Safety Topics</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/patient-safety-topics/emergency-management/">Emergency Management</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/patient-safety-topics/workforce-safety-and-well-being/">Workforce Safety and Well-Being</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/patient-safety-topics/infection-prevention-and-control/">Infection Prevention and Control</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/patient-safety-topics/report-a-patient-safety-concern-or-complaint/">Report a Patient Safety Concern or Complaint</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/patient-safety-topics/suicide-prevention/">Suicide Prevention</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/patient-safety-topics/zero-harm/">Zero Harm</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item3 even last rel-level2">
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/">News &amp; Multimedia</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/blogs/">Blogs</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/joint-commission-saves-lives/">Joint Commission Saves Lives</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/events/">Events</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/fact-sheets/">Fact Sheets</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/newsletters/">Newsletters</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/news-releases/">News Releases</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/speakers-bureau/">Speakers Bureau</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/video-resources/">Video Resources</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/webinars/">Webinars</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/the-joint-commission-and-social-media/">The Joint Commission and Social Media</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/news-and-multimedia/media-information-policy/">Media Information Policy</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item4 odd last rel-level2">
+                <a href="https://www.jointcommission.org/resources/speakers-bureau/">Speakers Bureau</a>
+            </li>
+            <li class="level2 item5 even last rel-level2">
+                <a href="https://www.jointcommission.org/resources/patient-safety/">Patient Safety</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/patient-safety/world-patient-safety-day/">World Patient Safety Day</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item6 odd last rel-level2">
+                <a href="https://www.jointcommission.org/resources/sentinel-event/">Sentinel Event</a>
+            </li>
+            <li class="level2 item7 even last rel-level2">
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/">The Physical Environment</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/utility-systems/">Utility Systems - EC.02.05.01</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/means-of-egress/">Means of Egress - LS.02.01.20</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/built-environment/">Built Environment - EC.02.06.01</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/fire-protection/">Fire Protection - EC.02.03.05</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/general-requirements/">General Requirements - LS.02.01.10</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/protection/">Protection - LS.02.01.30</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/automated-suppression/">Automated Suppression - LS.02.01.35</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/the-physical-environment/life-safety-code-information-and-resources/">Life Safety Code</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item8 odd last rel-level2">
+                <a href="https://www.jointcommission.org/resources/for-nurses/">For Nurses</a>
+            </li>
+            <li class="level2 item9 even last rel-level2">
+                <a href="https://www.jointcommission.org/resources/for-physicians/">For Physicians</a>
+            </li>
+            <li class="level2 item10 odd last rel-level2">
+                <a href="https://www.jointcommission.org/resources/for-consumers/">For Consumers</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/for-consumers/the-care-badge-for-unpaid-caregivers/">The Care Badge for Unpaid Caregivers</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/for-consumers/speak-up-campaigns/">Speak Up Campaigns</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/for-consumers/take-charge/">TakeCHARGE</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/for-consumers/the-joint-commission-journal-on-quality-and-patient-safety/">The Joint Commission Journal on Quality and Patient Safety</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/for-consumers/the-smart-parents-guide/">The Smart Parents Guide</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/for-consumers/you-the-smart-patient/">You The Smart Patient</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item11 even last rel-level2">
+                <a href="https://www.jointcommission.org/resources/research/">Research</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/research/operations-support-research/">Operations Support Research </a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/research/evaluation-research/">Evaluation Research</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/research/health-services-research/">Health Services Research</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/research/datamart/">DataMart</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item12 odd last rel-level2">
+                <a href="https://www.jointcommission.org/resources/awards/">Awards</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/awards/ernest-amory-codman-award/">Ernest Amory Codman Award</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/awards/john-m-eisenberg-patient-safety-and-quality-award/">John M. Eisenberg Patient Safety and Quality Award</a>
+            </li>
+            <li>
+                <a href="https://www.jointcommission.org/resources/awards/the-bernard-tyson-award-for-excellence-in-pursuit-of-healthcare-equity/">Bernard J. Tyson National Award for Excellence in Pursuit of Healthcare Equity</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+            <li class="level2 item13 even last rel-level2">
+                <a href="https://www.jointcommission.org/resources/continuing-education-credit-information/">Continuing Education Credit Information</a>
+                    <div class="tier-3">
+                            <ul role="presentation">
+            <li>
+                <a href="https://www.jointcommission.org/resources/continuing-education-credit-information/continuing-education-credit-information-faqs/">Continuing Education Credit Information FAQs</a>
+            </li>
+    </ul>
+
+                    </div>
+            </li>
+    </ul>
+
+                            </div>
+                            
+
+<div class="column">
+<a href="https://www.jointcommission.org/resources/news-and-multimedia/" class="nav-item" title="Newsroom" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/946578380.jpg" alt="Talking to audience.  One member of the board speaking in microphone among other participants of meeting." class=" lazy"
+                     width=&quot;1024&quot; height=&quot;1024&quot;>
+    </div>
+        <div class="content">
+            <h3>News & Multimedia</h3>
+            <p>Stay up to date with all the latest Joint Commission news, blog posts, webinars, and communications.</p>
+        </div>
+</a></div>
+<div class="column">
+<a href="https://www.jointcommission.org/resources/patient-safety-topics/" class="nav-item" title="Browse our portals of patient safety and care quality topics" >    <div class="media">
+                <img data-src="https://www.jointcommission.org/-/media/tjc/images/516796860.jpg" alt="Group of young creative people collaborating in modern office." class=" lazy"
+                     width=&quot;1024&quot; height=&quot;1024&quot;>
+    </div>
+        <div class="content">
+            <h3>Patient Safety Topics</h3>
+            <p>We can make a difference on your journey to provide consistently excellent care for each and every patient.</p>
+        </div>
+</a></div>                        </div>
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+
+
+
+
+
+
+
+
+            </nav>
+        </div>
+    </div>
+    </div>
+</div>
+</div>
+
+
+
+<div class="component container col-xs-12" id="8f739acf6fb04164a01e91ca7c8ef9ef" tabindex="-1" >
+    <div class="component-content">
+
+<div class="component breadcrumb col-xs-12" id="8dd1b09ac85d414da572221eb447f209" tabindex="-1">
+    <div class="component-content">
+        <nav aria-label="Breadcrumb Navigation">
+            <ol>
+                    <li class="breadcrumb-item home">
+<span class="field-title field-navigationtitle"><a title="Home" href="https://www.jointcommission.org/">Home </a></span>                            <span class="separator">&gt;</span>
+                    </li>
+                    <li class="breadcrumb-item ">
+<span class="field-title field-navigationtitle"><a title="Who We Are" href="https://www.jointcommission.org/who-we-are/">Who We Are</a></span>                            <span class="separator">&gt;</span>
+                    </li>
+                    <li class="breadcrumb-item ">
+<span class="field-title field-navigationtitle"><a title="Who We Work With" href="https://www.jointcommission.org/who-we-are/who-we-work-with/">Who We Work With</a></span>                            <span class="separator">&gt;</span>
+                    </li>
+                    <li class="breadcrumb-item last">
+<span class="field-title field-navigationtitle"><a title="Find Accredited Organizations" href="https://www.jointcommission.org/who-we-are/who-we-work-with/find-accredited-organizations/">Find Accredited Organizations</a></span>                            <span class="separator">&gt;</span>
+                    </li>
+            </ol>
+        </nav>
+    </div>
+</div>
+    </div>
+</div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main id="content" tabindex="-1">
+        <!-- class="container" -->
+        
+
+
+
+<div class="component section col-xs-12 has-padding" id="a8c4230e307944a3a2a25d620f8ae334" tabindex="-1" >
+    
+    
+
+
+<div class="component container col-xs-12" id="0c801bf083d34cbe85d1482c93e22d5d" tabindex="-1" >
+    <div class="component-content">
+
+
+
+<div class="component slideshow-component is-carousel wide-slides inset-arrows has-pagination" id="18df4afc44f248d181c61b15fa795aa3" tabindex="-1" data-properties='{&quot;timeout&quot;:2000,&quot;isPauseEnabled&quot;:true,&quot;transition&quot;:&quot;BasicTransition&quot;}'>
+    <div class="component-content">
+            <div class="slideshow" data-items="1">
+                <div class="slideshow__slides" data-slides>
+                        <div class="slide">
+
+<div class="component content promo banner linear-gradient theme-1 content--align-l bg--align-mt bg--half animated col-xs-12">
+    <div class="component-content">
+
+
+
+
+
+<div class="banner__bg bg--align-mt not-loaded lazy-bg" data-src="url('https://www.jointcommission.org/-/media/tjc/images/enterprise-building-shots/tjc.jpg')">
+    <span class="sr-only">The Joint Commission headquarters building.</span>
+</div>
+<div class="image-fallback">
+	<noscript>
+		<div class="banner__bg bg--align-mt" style="background-image: url('https://www.jointcommission.org/-/media/tjc/images/enterprise-building-shots/tjc.jpg');">
+			<span class="sr-only">The Joint Commission headquarters building.</span>
+		</div>
+	</noscript>
+</div>
+
+
+
+
+
+<div class="banner__overlay has-overlay"></div><div class="banner__content"><div class="container"><div class="banner__item"><div class="item__text"><h2 class="item__title field-title">Find Accredited Organizations</h2><div class="item__summary wysiwyg field-slidetext">The Joint Commission is proud to accredit nearly 15,000 healthcare organizations and certify and verify over 4,600 programs across the continuum of care in the United States.</div></div><span class="button-wrap button--theme-2"></span></div></div></div>    </div>
+</div>
+                        </div>
+                </div>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="component section col-xs-12 has-padding" id="ea0c05488fad45f08127f813e1daf185" tabindex="-1" >
+    
+    
+
+
+<div class="component container col-xs-12" id="eca9dcb92bd64838a3a83256821de4b0" tabindex="-1" >
+    <div class="component-content">
+
+
+<div class="row component column-splitter">
+        <div class="col-md-5">
+                <div class="component promo content--align-m" id="9f6251952b234aec8b076b31bb5c93ea_3ae0f58f64324c30ab15f5aa818c8dc9" tabindex="-1">
+        <div class="component-content">
+<div class="field-promoicon">
+
+<img src="https://www.jointcommission.org/-/media/enterprise-imagery/logos/goldseal_domestic.png" alt="The Joint Commission Gold Seal" aria-hidden="true" />
+</div><div><div class="wysiwyg field-promotext"><br /></div><div class="item__ctas"></div></div>        </div>
+    </div>
+
+        </div>
+        <div class="col-md-7">
+                <div class="component promo" id="fa85f8ca50814c049d2f8d38d9f13ef0_50767826e60b44488e960440eb98100e" tabindex="-1">
+        <div class="component-content">
+<div class="field-promoicon">
+</div><div><div class="wysiwyg field-promotext">Earning accreditation, certification or verification from The Joint Commission signifies many things, with none larger than a devotion to patient safety and quality of care. By earning our <em>Gold Seal of Approval</em><sup>&reg;</sup>, healthcare organizations and programs exemplify their commitment to using best practices to improve safety and quality for their patients, staff and community. <br />
+<br />
+Through the accreditation, certification and verification process, organizations and programs undergo an objective evaluation process to measure, assess and improve performance. Our state-of-the-art standards focus on patient safety and quality of care to help reduce the risk of errors and allow for continuous improvement.<br />
+<br />
+If you are looking for organizations outside of the United States, view Joint Commission <a href="https://www.jointcommissioninternational.org/who-we-are/accredited-organizations/" target="_blank" title="Click here to view international accredited organizations."> International accredited organizations listings</a>. <br /></div><div class="item__ctas"></div></div>        </div>
+    </div>
+
+        </div>
+</div>    </div>
+</div>
+</div>    </div>
+</div>
+
+
+<div class="component container col-xs-12" id="14bd32436fba4436ba2d39572d6ae5fd" tabindex="-1" >
+    <div class="component-content">
+
+
+<div id="MainPanel">
+    <div id="coveo-center-column">
+        <div class="">
+
+    
+    
+    <div id="coveo1bbd80ab"
+            class="CoveoSearchInterface "
+                    data-enable-history='true'
+            data-prebind-maximum-age='currentMaximumAge'
+>
+        <div class="coveo-search-interface-mandatory-section">
+            <div class="coveo-search-interface-mandatory-components">
+                <div class="CoveoValidateAnalyticsIncluded" data-component-name="Search Interface"></div>
+                <div class="CoveoForSitecoreExpressions"></div>
+                <div class="CoveoForSitecoreBindWithUserContext"></div>
+                <div class="CoveoForSitecoreSyntax"></div>
+                <div class="CoveoTriggers"></div>
+                <div class="CoveoHiddenQuery"></div>
+                <div>
+    
+    
+
+        <div class="CoveoForSitecoreRankingExpression"
+                                         data-sc-ranking-scope-node='{&quot;rankingExpressions&quot; : [],&quot;rankingFunctions&quot; : [],&quot;textualRankingExpressions&quot; : []}'
+>
+        </div>
+</div>
+                <div>
+    
+    
+
+    <div class="CoveoForSitecoreLocalExpression"
+                    data-sc-filter-on-sitecore-context-database='true'
+            data-sc-filter-on-current-language='true'
+            data-sc-filter-on-latest-version='true'
+>
+    </div>
+</div>
+
+                <div>
+    
+    
+
+        <div class="CoveoForSitecoreFilterExpression"
+                                         data-sc-filter-scope-node='{&quot;advanced&quot; : {&quot;type&quot; : &quot;and&quot; , &quot;left&quot; : {&quot;type&quot; : &quot;field&quot; , &quot;fieldName&quot; : &quot;connectortype&quot; , &quot;operator&quot; : {&quot;name&quot; : &quot;==&quot; , &quot;value&quot; : 1},&quot;fieldValueType&quot; : {&quot;name&quot; : &quot;string&quot; , &quot;value&quot; : 3},&quot;fieldValues&quot; : [&quot;GenericRestCrawler&quot;]},&quot;right&quot; : {&quot;type&quot; : &quot;not&quot; , &quot;operand&quot; : {&quot;type&quot; : &quot;field&quot; , &quot;fieldName&quot; : &quot;_template&quot; , &quot;operator&quot; : {&quot;name&quot; : &quot;==&quot; , &quot;value&quot; : 1},&quot;fieldValueType&quot; : {&quot;name&quot; : &quot;string&quot; , &quot;value&quot; : 3},&quot;fieldValues&quot; : [&quot;ADB6CA4F03EF4F47B9AC9CE2BA53FF97&quot; , &quot;FE5DD82648C6436DB87A7C4210C7413B&quot;]}}}}'
+>
+        </div>
+</div>
+                <div>
+    
+    
+
+</div>
+                
+<div>
+    
+
+            <span class="CoveoForSitecoreExternalContent"
+                                                    data-sc-sources='Accredited Orgs Data API'
+>
+            </span>
+</div>
+            </div>
+        </div>
+        
+<div class="coveo-for-sitecore-frame-container">
+    
+    <div class="coveo-main-section">
+        <div class="coveo-header">
+            
+
+    <div class="CoveoForSitecoreAnalytics"
+        >
+    </div>
+<div>
+    
+
+        <div class="CoveoAnalytics"
+                            data-prebind-endpoint='coveoForSitecoreAnalyticsEndpoint'
+                data-prebind-anonymous='isAnonymous'
+                data-prebind-search-hub='currentPageName'
+                data-search-hub='JC Accreditation Orgs'
+                data-prebind-send-to-cloud='analyticsEnabled'
+>
+        </div>
+</div>
+        </div>
+        
+<div class='coveo-search-section'>
+    
+
+
+
+<script>
+    document.addEventListener("CoveoSearchEndpointInitialized", function() {
+        var searchboxElement = document.getElementById("coveoe7d44a89");
+        searchboxElement.addEventListener("CoveoComponentInitialized", function() {
+            CoveoForSitecore.initSearchboxIfStandalone(searchboxElement, "");
+        });
+    })
+</script>    <div id="coveoe7d44a89_container" class="coveo-for-sitecore-search-box-container"
+                     data-prebind-maximum-age='currentMaximumAge'
+>
+        <div id="coveoe7d44a89"
+             class="CoveoSearchbox"
+                             data-enable-omnibox='true'
+                 data-partial-match-keywords='3'
+                 data-prebind-maximum-age='currentMaximumAge'
+                 data-placeholder='Search by Organization Name, City, State or Zip Code.'
+>
+            
+            
+<script type="text/javascript">
+    document.addEventListener("CoveoSearchEndpointInitialized", function() {
+        var componentId = "coveoe7d44a89";
+        var componentElement = document.getElementById(componentId);
+
+        function showError(error) {
+                console.error(error);
+        }
+
+        function areCoveoResourcesIncluded() {
+            return typeof (Coveo) !== "undefined";
+        }
+
+        if (areCoveoResourcesIncluded()) {
+            var event = document.createEvent("CustomEvent");
+            event.initEvent("CoveoComponentInitialized", false, true);
+            
+            setTimeout(function() {
+                componentElement.dispatchEvent(event);
+            }, 0);
+        } else {
+            componentElement.classList.add("invalid");
+            showError("The Coveo Resources component must be included in this page.");
+        }
+    });
+</script>
+            <div class="CoveoForSitecoreBindWithUserContext"></div>
+            <div class="CoveoForSitecoreExpressions"></div>
+            <div class="CoveoForSitecoreConfigureSearchHub" data-sc-search-hub=""></div>
+        </div>
+        
+    </div>
+
+    
+    <div class='coveo-hide-until-settings-added'>
+        
+    </div>
+</div>
+<div class="coveo-facet-column">
+    <div>
+    
+
+        <div id='StateFacet'
+             class="CoveoFacet"
+                              data-enable-collapse='true'
+                 data-enable-facet-search='true'
+                 data-enable-more-less='false'
+                 data-enable-settings='false'
+                 data-prebind-field='fieldTranslator'
+                 data-field='@jcapistate'
+                 data-id='State'
+                 data-injection-depth='1000'
+                 data-number-of-values='75'
+                 data-sort-criteria='alphaascending'
+                 data-title='State'
+>
+        </div>
+</div><div>
+    
+
+        <div id='coveo96678a99'
+             class="CoveoFacet"
+                              data-available-sorts='alphaascending,alphadescending,occurrences,score'
+                 data-enable-settings='false'
+                 data-prebind-field='fieldTranslator'
+                 data-field='@jcapiservices'
+                 data-facet-search-ignore-accents='false'
+                 data-id='Services'
+                 data-injection-depth='1000'
+                 data-sort-criteria='alphaascending'
+                 data-title='Services'
+>
+        </div>
+</div><div>
+    
+
+        <div id='coveo96678a99'
+             class="CoveoFacet"
+                              data-enable-collapse='true'
+                 data-enable-facet-search='true'
+                 data-enable-settings='false'
+                 data-prebind-field='fieldTranslator'
+                 data-field='@jcapiprogram'
+                 data-id='Accredited Programs'
+                 data-injection-depth='1000'
+                 data-sort-criteria='alphaascending'
+                 data-title='Accredited Programs'
+>
+        </div>
+</div><div>
+    
+
+        <div id='coveo96678a99'
+             class="CoveoFacet"
+                              data-enable-collapse='true'
+                 data-enable-facet-search='true'
+                 data-enable-settings='false'
+                 data-prebind-field='fieldTranslator'
+                 data-field='@jcapicertification'
+                 data-id='Certification'
+                 data-injection-depth='1000'
+                 data-sort-criteria='alphaascending'
+                 data-title='Certification'
+>
+        </div>
+</div><div>
+    
+
+        <div id='coveo96678a99'
+             class="CoveoFacet"
+                              data-enable-collapse='true'
+                 data-enable-facet-search='true'
+                 data-enable-settings='false'
+                 data-prebind-field='fieldTranslator'
+                 data-field='@jcapiadvancedcert'
+                 data-id='Advanced Certification'
+                 data-injection-depth='1000'
+                 data-sort-criteria='alphaascending'
+                 data-title='Advanced Certification'
+>
+        </div>
+</div><div>
+    
+
+        <div id='coveo96678a99'
+             class="CoveoFacet"
+                              data-enable-collapse='true'
+                 data-enable-settings='false'
+                 data-prebind-field='fieldTranslator'
+                 data-field='@jcapiverification'
+                 data-id='Verification'
+                 data-injection-depth='1000'
+                 data-sort-criteria='alphaascending'
+                 data-title='Verification'
+>
+        </div>
+</div>
+</div>
+<div class="coveo-results-column">
+    
+<div>
+    
+
+    <div class="CoveoBreadcrumb"></div>
+</div>
+<div class="coveo-summary-section">
+    <span class="CoveoQuerySummary"
+     >
+    
+</span>
+</div>
+
+<div>
+        <div id="coveo4b2be53c"
+            class="CoveoResultList"
+                            data-layout='list'
+                data-wait-animation='fade'
+                data-auto-select-fields-to-include='false'
+>
+            
+
+    <div>
+        <script id="coveo99b81ad2"
+                class="result-template"
+                type="text/x-underscore-template"
+               >
+            <!-- If you get an "Unexpected Token <" issue on this line with SXA, refer to: https://docs.coveo.com/en/2098/ -->
+            
+
+
+
+
+{{
+
+var varSites =          highlightStreamHTML(coveoFieldValue("jcapisitename"));
+var varOrgID =          coveoFieldValue("aoihco");
+var varWebsite =          coveoFieldValue("jcapiorganizationwebsite");
+var varPhSites =        "phFacilities" + varOrgID;
+var varName =           coveoFieldValue("jcapiorganizationname");
+var varStatus =         coveoFieldValue("jcapiaccredstatus");
+}}
+
+
+
+<div class="coveo-result-frame coveoforsitecore-template">
+    <div class="coveo-news-label coveo-ao-type-title">Organization Listing</div>
+    <div class="coveo-result-row">
+        <div class="coveo-result-cell coveoforsitecore-information-section search-accreditedorganizations">
+            <div class="coveo-result-row">
+                <div class="coveo-result-cell">
+                    
+                    <div class="coveo-title container">
+
+                        <% if (coveoFieldValue("jcapidisplaygoldseal") === "N")  { %>
+                        
+                        <% } else if (coveoFieldValue("jcapiaccredstatus") === "52" && coveoFieldValue("jcapidisplaygoldseal") === "Y" ){ %>
+                        <div class="search-jcSeal">
+                            <img src="https://www.jointcommission.org/-/media/enterprise-imagery/logos/mlc-logo.png?h=680&amp;iar=0&amp;w=769&amp;hash=61DC0F9CC006B4DC3AAE7C83E895DE85" class="img-organization-icon" alt="" width="769" height="680" />
+                        </div>
+                        <% } else if (coveoFieldValue("jcapiaccredstatus") !== "52" && coveoFieldValue("jcapidisplaygoldseal") === "Y" ) { %>
+
+                        <div class="search-jcSeal">
+                            <img src="https://www.jointcommission.org/-/media/enterprise-imagery/logos/goldseal_national_accreditation.png?h=128&amp;iar=0&amp;w=128&amp;hash=3558797888818D8135E4D77519B65FD4" class="img-organization-icon" alt="Joint Commission International Gold Seal" width="128" height="128" />
+                        </div>
+                        <% } %>
+
+                        <div class="CoveoFieldValue search-title" data-field="@jcapiorganizationname"></div>
+
+                    </div>
+                    <div class="container coveo-org-details">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class='coveo-organization-details'>
+                                    <div class="CoveoFieldValue" data-field="@jcapiorganizationid" data-text-caption="HCO ID:"></div>
+                                    <br />
+                                    <div class="CoveoFieldValue" data-field="@jcapiorganizationnamedba" data-text-caption="DBA:"></div>
+                                </div>
+
+                                <div class="coveo-result-address">
+                                    <div class="CoveoFieldValue" data-field="@jcapistreet"></div>
+                                    <span class="CoveoFieldValue" data-field="@jcapicity"></span>, <%= raw.jcapistate %> <span class="CoveoFieldValue" data-field="@jcapipostalcodestring"></span>
+                                </div>
+                                <div class="coveo-result-contact">
+                                    <div class="CoveoFieldValue" data-field="@jcapiorganizationwebsite" data-text-caption="Website:" data-helper="anchor" data-html-value="true" data-helper-options="{target: '_blank'}">
+                                        <img src="https://www.jointcommission.org/-/media/enterprise-imagery/black-icons/external-link.png?h=20&amp;iar=0&amp;w=20&amp;hash=B03263A133F18D6F710CE6F1CC657F3A" class="img-external-link" alt="External Link Icon" width="20" height="20" />
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <% if (coveoFieldValue("jcapiaccredstatus") === "19" ) { %>
+                    <div class="search-accreditedorganization-noaccred">
+                        This organization has been denied accreditation
+                    </div>
+                    <% } else { %>
+                    <div class="container coveo-org-program-details">
+                        <div id="accordion">
+                            <% if (coveoFieldValue("jcapiprogram")  != null) { %>
+                            <div class="card">
+                                <div class="card-header headingAccreditedPrograms">
+                                    <div class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#program-{{=varPhSites}}" aria-expanded="false" aria-controls="program-{{=varPhSites}}">
+                                            Accredited Programs
+                                        </button>
+                                    </div>
+                                </div>
+                                <div id="program-{{=varPhSites}}" class="collapse" aria-labelledby="headingAccreditedPrograms" data-parent="#accordion">
+                                    <div class="card-body search-programs">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col"></th>
+                                                    <th scope="col">Decision</th>
+                                                    <th scope="col">Effective Date</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <%= raw.jcapiprogramfulldata %>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <% } %>
+                            <% if (coveoFieldValue("jcapicertification")  != null ) { %>
+                            <div class="card">
+                                <div class="card-header headingCertificationPrograms">
+                                    <div class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#certification-{{=varPhSites}}" aria-expanded="false" aria-controls="certification-{{=varPhSites}}">
+                                            Certifications
+                                        </button>
+                                    </div>
+                                </div>
+                                <div id="certification-{{=varPhSites}}" class="collapse" aria-labelledby="headingCertificationPrograms" data-parent="#accordion">
+                                    <div class="card-body search-certifications">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col"></th>
+                                                    <th scope="col">Decision</th>
+                                                    <th scope="col">Effective Date</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <%= raw.jcapicertificationfulldata %>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <% } %>
+                            <% if (coveoFieldValue("jcapiadvancedcert")  != null ) { %>
+                            <div class="card">
+                                <div class="card-header headingAdvancedCertification">
+                                    <div class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#advcertification-{{=varPhSites}}" aria-expanded="false" aria-controls="advcertification-{{=varPhSites}}">
+                                            Advanced Certifications
+                                        </button>
+                                    </div>
+                                </div>
+                                <div id="advcertification-{{=varPhSites}}" class="collapse" aria-labelledby="headingAdvancedCertification" data-parent="#accordion">
+                                    <div class="card-body search-advcertification">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col"></th>
+                                                    <th scope="col">Decision</th>
+                                                    <th scope="col">Effective Date</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <%= raw.jcapiadvancedcertfulldata %>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <% } %>
+                            <% if (coveoFieldValue("jcapiaddoncert")  != null ) { %>
+                            <div class="card">
+                                <div class="card-header headingAddOnCertification">
+                                    <div class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#addoncertification-{{=varPhSites}}" aria-expanded="false" aria-controls="addoncertification-{{=varPhSites}}">
+                                            Add-On Certifications
+                                        </button>
+                                    </div>
+                                </div>
+                                <div id="addoncertification-{{=varPhSites}}" class="collapse" aria-labelledby="headingAddonCertification" data-parent="#accordion">
+                                    <div class="card-body search-addoncertification">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col"></th>
+                                                    <th scope="col">Decision</th>
+                                                    <th scope="col">Effective Date</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <%= raw.jcapiaddoncertfulldata %>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <% } %>
+                            <% if (coveoFieldValue("jcapiverification")  != null ) { %>
+                            <div class="card">
+                                <div class="card-header headingVerification">
+                                    <div class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#verification-{{=varPhSites}}" aria-expanded="false" aria-controls="verification-{{=varPhSites}}">
+                                            Verification Programs
+                                        </button>
+                                    </div>
+                                </div>
+                                <div id="verification-{{=varPhSites}}" class="collapse" aria-labelledby="headingVerification" data-parent="#accordion">
+                                    <div class="card-body search-verification">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col"></th>
+                                                    <th scope="col">Decision</th>
+                                                    <th scope="col">Effective Date</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <%= raw.jcapiverificationfulldata %>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <% } %>
+                            <% if (coveoFieldValue("jcapisitename")  != null ) { %>
+                            <div class="card">
+                                <div class="card-header headingAssociatedLocations">
+                                    <div class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#locations-{{=varPhSites}}" aria-expanded="false" aria-controls="locations-{{=varPhSites}}">
+                                            <%= raw.jcapiorganizationname %> Additional Sites
+                                        </button>
+                                    </div>
+                                </div>
+                                <div id="locations-{{=varPhSites}}" class="collapse" aria-labelledby="headingAssociatedLocations" data-parent="#accordion">
+                                    <div class="card-body">
+                                        <%= raw.jcapisitelistfulldata %>
+                                    </div>
+                                </div>
+                            </div>
+                            <% } %>
+                        </div>
+                    </div>
+                    <% } %>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </script>
+    </div>
+
+        </div>
+</div>
+    
+    <div class="CoveoLogo"></div>
+    <div class="CoveoResultsPerPage"
+             data-initial-choice='25'
+>
+
+    
+    
+</div>
+
+<div class="CoveoPager"
+    >
+
+    
+    
+</div>
+</div>
+        <div class="coveo-footer">
+            
+        </div>
+    </div>
+    
+</div>
+    </div>
+    <div>
+<script type="text/javascript">
+    document.addEventListener("CoveoSearchEndpointInitialized", function() {
+        
+        setTimeout(function() {
+            var searchInterface = document.getElementById("coveo1bbd80ab");
+                 if (typeof(CoveoForSitecore) !== "undefined") {
+                     CoveoForSitecore.initSearchInterface(searchInterface);
+                 }
+        }, 0);
+    });
+</script>    </div>
+</div>
+        <link rel="stylesheet" href="https://static.cloud.coveo.com/searchui/v2.10089/css/CoveoFullSearch.css" />
+<link rel="stylesheet" href="https://static.cloud.coveo.com/coveoforsitecore/ui/v0.56.8/css/CoveoForSitecore.css" />
+<script class="coveo-script" type="text/javascript" src='https://static.cloud.coveo.com/searchui/v2.10089/js/CoveoJsSearch.Lazy.min.js'></script>
+<script class="coveo-for-sitecore-script" type="text/javascript" src='https://static.cloud.coveo.com/coveoforsitecore/ui/v0.56.8/js/CoveoForSitecore.Lazy.min.js'></script>
+<script type="text/javascript" src="https://static.cloud.coveo.com/searchui/v2.10089/js/cultures/en.js"></script>
+
+<div>
+
+
+    
+    
+    <!-- Resources -->
+    <div id="SearchResourcesProperties_61b0705a5b934591b18396c13a1abfc4"
+         class="CoveoForSitecoreContext"
+                    data-sc-should-have-analytics-component='true'
+            data-sc-analytics-enabled='true'
+            data-sc-current-language='en'
+            data-prebind-sc-language-field-name='fieldTranslator'
+            data-sc-language-field-name='_language'
+            data-sc-labels='{&quot;Created&quot; : &quot;Created&quot; , &quot;Created By&quot; : &quot;Created by&quot; , &quot;Creation Time&quot; : &quot;Creation time.&quot; , &quot;Language&quot; : &quot;Language&quot; , &quot;Last Time Modified&quot; : &quot;Last time modified.&quot; , &quot;Template&quot; : &quot;Template&quot; , &quot;Uniform resource identifier&quot; : &quot;URI&quot; , &quot;Updated By&quot; : &quot;Updated by&quot; , &quot;If the problem persists contact the administrator.&quot; : &quot;If the problem persists contact the administrator.&quot; , &quot;Search is currently unavailable&quot; : &quot;Oops! Something went wrong on the server.&quot; , &quot;Descending&quot; : &quot;Descending&quot; , &quot;Ascending&quot; : &quot;Ascending&quot;}'
+            data-sc-maximum-age='900000'
+            data-sc-page-name='Find Accredited Organizations'
+            data-sc-page-name-full-path='/sitecore/content/Enterprise/TJC/Home/who-we-are/who-we-work-with/Find Accredited Organizations'
+            data-sc-index-source-name='Coveo_web_index - JC10-PROD'
+            data-sc-is-in-experience-editor='false'
+            data-sc-is-user-anonymous='true'
+            data-sc-item-uri='sitecore://web/{F91011A7-4B68-441D-9BC5-2321305F0434}?lang=en&amp;ver=4'
+            data-sc-item-id='f91011a7-4b68-441d-9bc5-2321305f0434'
+            data-prebind-sc-latest-version-field-name='fieldTranslator'
+            data-sc-latest-version-field-name='_latestversion'
+            data-sc-rest-endpoint-uri='/coveo/rest'
+            data-sc-analytics-endpoint-uri='/coveo/rest/ua'
+            data-sc-site-name='TJC'
+            data-sc-field-prefix='f'
+            data-sc-field-suffix='89370'
+            data-sc-prefer-source-specific-fields='false'
+            data-sc-external-fields='[{&quot;fieldName&quot;:&quot;permanentid&quot;,&quot;shouldEscape&quot;:false}]'
+            data-sc-source-specific-fields='[{&quot;fieldName&quot;:&quot;attachmentparentid&quot;},{&quot;fieldName&quot;:&quot;author&quot;},{&quot;fieldName&quot;:&quot;clickableuri&quot;},{&quot;fieldName&quot;:&quot;collection&quot;},{&quot;fieldName&quot;:&quot;concepts&quot;},{&quot;fieldName&quot;:&quot;date&quot;},{&quot;fieldName&quot;:&quot;filetype&quot;},{&quot;fieldName&quot;:&quot;indexeddate&quot;},{&quot;fieldName&quot;:&quot;isattachment&quot;},{&quot;fieldName&quot;:&quot;language&quot;},{&quot;fieldName&quot;:&quot;printableuri&quot;},{&quot;fieldName&quot;:&quot;rowid&quot;},{&quot;fieldName&quot;:&quot;size&quot;},{&quot;fieldName&quot;:&quot;source&quot;},{&quot;fieldName&quot;:&quot;topparent&quot;},{&quot;fieldName&quot;:&quot;topparentid&quot;},{&quot;fieldName&quot;:&quot;transactionid&quot;},{&quot;fieldName&quot;:&quot;uri&quot;},{&quot;fieldName&quot;:&quot;urihash&quot;}]'
+>
+    </div>
+    <script type="text/javascript">
+        var endpointConfiguration = {
+            itemUri: "sitecore://web/{F91011A7-4B68-441D-9BC5-2321305F0434}?lang=en&amp;ver=4",
+            siteName: "TJC",
+            restEndpointUri: "/coveo/rest"
+        };
+        if (typeof (CoveoForSitecore) !== "undefined") {
+            CoveoForSitecore.SearchEndpoint.configureSitecoreEndpoint(endpointConfiguration);
+            CoveoForSitecore.version = "5.0.1110.1";
+            var context = document.getElementById("SearchResourcesProperties_61b0705a5b934591b18396c13a1abfc4");
+            if (!!context) {
+                CoveoForSitecore.Context.configureContext(context);
+            }
+        }
+    </script>
+</div>
+    </div>
+</div>    <div class="component promo" id="7912f90a17814f359f7a920b8a850310" tabindex="-1">
+        <div class="component-content">
+<div class="field-promoicon">
+</div><div><div class="wysiwyg field-promotext"><em>The Joint Commission cannot guarantee the accuracy, completeness, timeline or validity of any of the information that is contained regarding healthcare organizations&rsquo; demographics and sites of service. The information reflected may change without The Joint Commission&rsquo;s knowledge. <br />
+<br />
+Individuals using this search are responsible for obtaining additional information necessary to make informed decisions about their choice of healthcare providers. The Joint Commission makes no representations about the effect accreditation has, if any, on the quality of care and treatment of individuals or the actual outcomes of patient care provided by organizations.<br />
+</em></div><div class="item__ctas"></div></div>        </div>
+    </div>
+    </div>
+</div>
+</div>
+
+
+
+
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer id="footer">
+        <!-- class="container" -->
+        
+
+
+
+<div class="component section footer-top theme-4" id="fcd58021bc7b4aeaa5c910e042429924" tabindex="-1" >
+    
+    
+
+
+<div class="component container" id="0fcfa51db37642ab8d787751491341bb" tabindex="-1" >
+    <div class="component-content">
+
+
+
+<div class="component row-splitter">
+        <div class=" column-splitter--flex column-splitter--spaced container-fluid">
+            <div class="row">
+                
+<div class="component link-list" id="02fa8c0911ec44a4854328a5c8cce332_dd3869c2e8294ad68cc3a490b64b136e" tabindex="-1">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<span class="field-linkimage"><a title="Visit the Joint Commission International website" href="https://www.jointcommissioninternational.org/" target="_blank"><img data-src="https://www.jointcommission.org/-/media/enterprise-imagery/logos/jci-r-mark.png?h=55&amp;iar=0&amp;w=266&amp;hash=5593D888A7AFEF7A21F8449E04247DD0" alt="Joint Commission International" width="266" height="55" data-variantitemid="{A5B8BA0D-136F-4B71-949B-14C6852C04AA}" data-variantfieldname="LinkImage" title="Joint Commission International"  class="lazy"/></a></span>                </li>
+                <li class="item1 even last">
+<span class="field-linkimage"><a title="Visit the Joint Commission Resources website" href="https://www.jcrinc.com/" target="_blank"><img data-src="https://www.jointcommission.org/-/media/enterprise-imagery/logos/jcr-r-mark.png?h=55&amp;iar=0&amp;w=268&amp;hash=583B7D4B7598437BF69D13444A81E32A" alt="Joint Commission Resources" width="268" height="55" data-variantitemid="{673A66CB-ED9C-433D-B50D-73B812EB959B}" data-variantfieldname="LinkImage" title="Joint Commission Resources"  class="lazy"/></a></span>                </li>
+        </ul>
+    </div>
+</div>
+<div class="component plain-html" id="5f7ab3ee769444b68ed47fb98976be40_2921fc8f55234cd6a350752392e92e2a" tabindex="-1">
+    <div class="component-content">
+<div class="social-links">
+    <ul>
+        <li>
+            <a href="https://www.facebook.com/pages/The-Joint-Commission/104533371063" class="link--facebook" target="_blank">
+		<span class="sr-only">Visit us on Facebook</span>
+		<svg xmlns="http://www.w3.org/2000/svg" class="svg--icon svg--facebook" viewBox="0 0 16 28">  
+			<title>facebook</title>
+			<path d="M 14.984 0.187 v 4.125 h -2.453 c -1.922 0 -2.281 0.922 -2.281 2.25 v 2.953 h 4.578 l -0.609 4.625 h -3.969 v 11.859 h -4.781 v -11.859 h -3.984 v -4.625 h 3.984 v -3.406 c 0 -3.953 2.422 -6.109 5.953 -6.109 c 1.687 0 3.141 0.125 3.563 0.187 Z" />
+		</svg>
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/TJCommission" class="theme-11" target="_blank">
+		<span class="sr-only">Visit us on X</span>
+		<svg xmlns="http://www.w3.org/2000/svg" class="svg--icon svg--twitter" viewBox="0 0 1200 1227">  
+			<title>X</title>
+			<path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/>
+		</svg>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/company/joint-commission" class="link--linkedin" target="_blank">
+		<span class="sr-only">Visit us on LinkedIn</span>
+		<svg xmlns="http://www.w3.org/2000/svg" class="svg--icon svg--linkedin" viewBox="0 0 24 28">  
+			<title>linkedin</title>
+			<path d="M 5.453 9.766 v 15.484 h -5.156 v -15.484 h 5.156 Z M 5.781 4.984 c 0.016 1.484 -1.109 2.672 -2.906 2.672 v 0 h -0.031 c -1.734 0 -2.844 -1.188 -2.844 -2.672 c 0 -1.516 1.156 -2.672 2.906 -2.672 c 1.766 0 2.859 1.156 2.875 2.672 Z M 24 16.375 v 8.875 h -5.141 v -8.281 c 0 -2.078 -0.75 -3.5 -2.609 -3.5 c -1.422 0 -2.266 0.953 -2.641 1.875 c -0.125 0.344 -0.172 0.797 -0.172 1.266 v 8.641 h -5.141 c 0.063 -14.031 0 -15.484 0 -15.484 h 5.141 v 2.25 h -0.031 c 0.672 -1.062 1.891 -2.609 4.672 -2.609 c 3.391 0 5.922 2.219 5.922 6.969 Z" />
+		</svg>
+            </a>
+        </li>
+    </ul>
+</div>    </div>
+</div>
+            </div>
+        </div>
+</div>    </div>
+</div>
+</div>
+
+
+<div class="component section footer-bottom theme-5" id="72f9d6bc83d947d399c7056ecda5db58" tabindex="-1" >
+    
+    
+
+
+<div class="component container" id="2537592d12fd49b8b3623d769e013df5" tabindex="-1" >
+    <div class="component-content">
+
+
+<div class="row component column-splitter">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            
+<div class="component link-list position-left has-dividers" id="819e440284e845899ffb113d5d43f794_bd7df78a20654fa5bed1c85b609772e2" tabindex="-1">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="https://www.jointcommission.org/resources/news-and-multimedia/" data-variantitemid="{15BC8491-1CAD-4DCC-8989-9BE56300074F}" title="Find the latest news and updates from The Joint Commission in the news room" data-variantfieldname="Link">News Room</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="https://www.jointcommission.org/careers/" data-variantitemid="{4FDD458B-3A6F-425F-9656-2317D29C2DA5}" title="Browse career opportunities with The Joint Commission" data-variantfieldname="Link">Careers</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="https://www.jointcommission.org/e-alerts/" data-variantitemid="{B0C40D23-A71A-4018-9BB8-1A4287FD10A4}" title="Sign up to receive important updates from The Joint Commission with E-Alerts" data-variantfieldname="Link">E-Alerts</a></div>                </li>
+                <li class="item3 even last">
+<div class="field-link"><a href="https://www.jointcommission.org/contact-us/" data-variantitemid="{53A798D2-F5A5-4A15-A02A-0D3D2B2CD25A}" title="Find ways to get in touch with us" data-variantfieldname="Link">Contact Us</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+            
+<div class="component link-list position-center footer-links" id="be7960e190dc45a7ba51dc41bbd5a2b9_3d4a19c028e24f1d94f7869b7d83e2dd" tabindex="-1">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="https://www.jointcommission.org/accessibility/" data-variantitemid="{9298648C-2254-405C-B547-CB6A836AC7A2}" data-variantfieldname="Link">Accessibility</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="https://www.jointcommission.org/terms-of-use/" data-variantitemid="{7AFE3CBC-805A-4C06-80E3-5D78B8912069}" data-variantfieldname="Link">Terms of Use</a></div>                </li>
+                <li class="item2 odd last">
+<div class="field-link"><a href="https://www.jointcommission.org/privacy-and-cookies-statement/" data-variantitemid="{755783B5-7E54-4FD5-83ED-B990D35DCCD6}" data-variantfieldname="Link">Privacy &amp; Cookies Statement</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+            
+
+    <div class="component rich-text not available position-right" id="ac83869e97b7406bbe09938c34e1085b_96719a5ebf7a44d7b26db8d0967e3f32" tabindex="-1">
+        <div class="component-content">
+<span class="field-year"><span>&copy;</span><span>2024</span><span>&nbsp;</span></span>The Joint Commission, All Rights Reserved        </div>
+    </div>
+
+
+    <div class="component rich-text position-right" id="153205d97f5c4d70800e5ef1f9e5b40c_06fac271123a4a7aa07d178753e403e3" tabindex="-1">
+        <div class="component-content">
+<div class="field-text"><p><em>The Joint Commission</em> is a registered trademark of The Joint Commission enterprise.</p></div>        </div>
+    </div>
+
+        </div>
+</div>    </div>
+</div>
+</div><div class="component plain-html" id="09d81431155941268e4ad74e4a68c5f3_29d5bee94fde400fbf2c0c738b3dc8bb" tabindex="-1">
+    <div class="component-content">
+<script>(function(d){var s = d.createElement("script");s.setAttribute("data-account", "TC1vBClDau");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document)</script><noscript>Please ensure Javascript is enabled for purposes of <a href="https://userway.org">website accessibility</a></noscript>    </div>
+</div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/ScrollTrigger.min.js"></script>
+<script src="/-/media/base-themes/core-libraries/scripts/optimized-min.js?t=20231121T150443Z"></script><script src="/-/media/base-themes/xa-api/scripts/optimized-min.js?t=20231121T144934Z"></script><script src="/-/media/base-themes/main-theme/scripts/optimized-min.js?t=20230308T194832Z"></script><script src="/-/media/base-themes/google-maps-js-connector/scripts/optimized-min.js?t=20230308T204226Z"></script><script src="/-/media/base-themes/maps/scripts/optimized-min.js?t=20230308T204227Z"></script><script src="/-/media/base-themes/searchtheme/scripts/optimized-min.js?t=20230308T204229Z"></script><script src="/-/media/base-themes/custom-stuff/scripts/optimized-min.js?t=20241002T192826Z"></script><script src="/-/media/base-themes/ozplayer/scripts/optimized-min.js?t=20231121T144935Z"></script><script src="/-/media/base-themes/components-theme/scripts/optimized-min.js?t=20230308T194834Z"></script><script src="/-/media/base-themes/resolve-conflicts/scripts/optimized-min.js?t=20230308T194834Z"></script><script src="/-/media/themes/enterprise/jc/scripts/optimized-min.js?t=20240612T140200Z"></script>
+    
+
+
+    <!--
+    Enabled: Yes
+    Active: Yes
+    -->
+</body>
+</html>
