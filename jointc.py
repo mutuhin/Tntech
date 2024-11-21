@@ -101,12 +101,21 @@ async def scrape_joint_commission():
                 decisions = [await element.inner_text() for element in decisions_elements]
 
                 # Extract Effective Dates
-                effective_dates_elements = await result.query_selector_all(
-                    "div[id*='accordion'] tr td div.item3"
-                )
-                effective_dates = [
-                    await element.inner_text() for element in effective_dates_elements
-                ]
+                effective_dates_elements = await result.query_selector_all("div[id*='accordion'] tr")
+                effective_dates = []
+
+                for row in effective_dates_elements:
+                    # Get the decision for this row
+                    decision_element = await row.query_selector("div.item2")
+                    decision = await decision_element.inner_text() if decision_element else ""
+
+                    # If the decision is "Accredited", get the effective date
+                    if decision.strip().lower() == "accredited":
+                        effective_date_element = await row.query_selector("div.item3")
+                        effective_date = (
+                            await effective_date_element.inner_text() if effective_date_element else ""
+                        )
+                        effective_dates.append(effective_date.strip())
 
                 # Extract Last Full Survey Dates
                 last_full_survey_elements = await result.query_selector_all(
