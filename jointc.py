@@ -1,7 +1,20 @@
 import asyncio
-from playwright.async_api import async_playwright
+from playwright.async_api import async_playwright, TimeoutError
 import pandas as pd
-from lxml import html
+
+
+# Function for retrying page.goto
+async def safe_goto(page, url, retries=3):
+    for i in range(retries):
+        try:
+            await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            return  # Success
+        except TimeoutError:
+            if i < retries - 1:
+                print(f"Retrying ({i+1}/{retries})...")
+                await asyncio.sleep(2)  # Wait before retrying
+            else:
+                raise  # Raise the error if all retries fail
 
 
 async def scrape_joint_commission():
@@ -11,19 +24,21 @@ async def scrape_joint_commission():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
-        await page.goto(url)
+
+        # Use retry logic to navigate to the page
+        await safe_goto(page, url)
 
         while True:
+            # Wait for results to load
             await page.wait_for_selector("div.CoveoResult")
 
-            # Scrape elements dynamically to ensure we get `full_address`
+            # Scrape elements dynamically to ensure we get all required fields
             results = await page.query_selector_all("div.CoveoResult")
-            
+
             for result in results:
-                # Extract the title
-                title = await (await result.query_selector(
-                    "div.search-title > span"
-                )).inner_text() if await result.query_selector("div.search-title > span") else ""
+                # Extract Title
+                title_element = await result.query_selector("div.search-title > span")
+                title = await title_element.inner_text() if title_element else ""
 
                 # Extract HCO ID
                 hco_id_element = await result.query_selector(
@@ -31,11 +46,11 @@ async def scrape_joint_commission():
                 )
                 hco_id = await hco_id_element.inner_text() if hco_id_element else ""
 
-                # Extract full address
+                # Extract Full Address
                 full_address_element = await result.query_selector("div.coveo-result-address")
                 full_address = await full_address_element.inner_text() if full_address_element else ""
 
-                # Parse full address into components
+                # Parse Full Address into components
                 street_address, city, state, zip_code = "", "", "", ""
                 if full_address:
                     address_parts = [part.strip() for part in full_address.split(",")]
@@ -46,21 +61,75 @@ async def scrape_joint_commission():
                         state = state_zip[0] if len(state_zip) > 0 else ""
                         zip_code = state_zip[1] if len(state_zip) > 1 else ""
 
-                # Extract additional fields if necessary
-                other_addresses_element = await result.query_selector("div.sitedetails-location div.siteaddress")
-                other_addresses = await other_addresses_element.inner_text() if other_addresses_element else ""
+                # Extract Other Addresses
+                # Extract Other Addresses
+                other_addresses_elements = await result.query_selector_all("div.sitedetails-location div.siteaddress")
+                other_addresses = []
 
+                # Loop through all matching elements and extract text
+                for element in other_addresses_elements:
+                    text = await element.inner_text()
+                    other_addresses.append(text.strip())
+
+                # Join the collected addresses into a single string (or process as needed)
+                other_addresses_combined = "\n".join(other_addresses)
+
+
+                # Extract Accreditation Programs
+                accredited_programs_elements = await result.query_selector_all(
+                    "div[id*='accordion'] tr td div.item1"
+                )
+                accredited_programs = [
+                    await element.inner_text() for element in accredited_programs_elements
+                ]
+
+                # Extract Accreditation Decisions
+                decisions_elements = await result.query_selector_all(
+                    "div[id*='accordion'] tr td div.item2"
+                )
+                decisions = [await element.inner_text() for element in decisions_elements]
+
+                # Extract Effective Dates
+                effective_dates_elements = await result.query_selector_all(
+                    "div[id*='accordion'] tr td div.item3"
+                )
+                effective_dates = [
+                    await element.inner_text() for element in effective_dates_elements
+                ]
+
+                # Extract Last Full Survey Dates
+                last_full_survey_elements = await result.query_selector_all(
+                    "div[id*='accordion'] tr td div.item4"
+                )
+                last_full_survey_dates = [
+                    await element.inner_text() for element in last_full_survey_elements
+                ]
+
+                # Extract Last On-Site Survey Dates
+                last_on_site_survey_elements = await result.query_selector_all(
+                    "div[id*='accordion'] tr td div.item5"
+                )
+                last_on_site_survey_dates = [
+                    await element.inner_text() for element in last_on_site_survey_elements
+                ]
+
+                # Append data
                 data.append(
                     {
                         "Title": title.strip(),
                         "All_Category": "Home Care, Durable Medical Equipment",
                         "HCO": hco_id.strip(),
                         "Full Address": full_address.strip(),
-                        "Street Address": street_address,
-                        "City": city,
-                        "State": state,
-                        "ZIP": zip_code,
-                        "OtherAddresses": other_addresses.strip(),
+                        "Street Address": street_address.strip(),
+                        "City": city.strip(),
+                        "State": state.strip(),
+                        "ZIP": zip_code.strip(),
+                        "Other Addresses": other_addresses_combined.strip(),
+                        "Accreditation Programs": ", ".join(accredited_programs),
+                        "Accreditation Decision": ", ".join(decisions),
+                        "Effective Date": ", ".join(effective_dates),
+                        "Last Full Survey Date": ", ".join(last_full_survey_dates),
+                        "Last On-Site Survey Date": ", ".join(last_on_site_survey_dates),
                     }
                 )
 
@@ -80,4 +149,5 @@ async def scrape_joint_commission():
     print("Data saved to accredited_organizations.csv")
 
 
+# Run the script
 asyncio.run(scrape_joint_commission())
