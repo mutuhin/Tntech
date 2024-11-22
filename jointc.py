@@ -95,10 +95,14 @@ async def scrape_joint_commission():
                 ]
 
                 # Extract Accreditation Decisions
+                # Select only the elements where class is "item2" and text is "Accredited"
                 decisions_elements = await result.query_selector_all(
-                    "div[id*='accordion'] tr td div.item2"
+                    "xpath=//div[@class='item2' and normalize-space(text())='Accredited']"
                 )
+
+                # Extract the text content of these filtered elements
                 decisions = [await element.inner_text() for element in decisions_elements]
+
 
                 # Extract Effective Dates
                 effective_dates_elements = await result.query_selector_all("div[id*='accordion'] tr")
